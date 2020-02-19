@@ -1,0 +1,22 @@
+{
+	"type":"FeatureCollection",
+	"features":[
+		{
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[114.29955,30.59521]
+			},
+			"properties":{
+				"date":"2019-12-02",
+				"country":"中国",
+				"province":"湖北省",
+				"city":"武汉市",
+				"confirmed":1,
+				"suspected":0,
+				"cured":0,
+				"dead":0
+			}
+		}
+	]
+}

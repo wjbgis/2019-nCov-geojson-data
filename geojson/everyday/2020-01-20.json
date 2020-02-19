@@ -1,0 +1,22 @@
+{
+	"type":"FeatureCollection",
+	"features":[
+		{
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[121.469475,31.231943]
+			},
+			"properties":{
+				"date":"2020-01-20",
+				"country":"中国",
+				"province":"上海市",
+				"city":"外地来沪",
+				"confirmed":1,
+				"suspected":0,
+				"cured":0,
+				"dead":0
+			}
+		}
+	]
+}
