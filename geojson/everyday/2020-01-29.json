@@ -6273,57 +6273,6 @@
 				"cured":0,
 				"dead":0
 			}
-		},
-		{
-			"type":"Feature",
-			"geometry":{
-				"type":"Point",
-				"coordinates":[120.84659,23.770826]
-			},
-			"properties":{
-				"date":"2020-01-29",
-				"country":"中国",
-				"province":"台湾省",
-				"city":"台湾",
-				"confirmed":8,
-				"suspected":0,
-				"cured":0,
-				"dead":0
-			}
-		},
-		{
-			"type":"Feature",
-			"geometry":{
-				"type":"Point",
-				"coordinates":[114.127075,22.412231]
-			},
-			"properties":{
-				"date":"2020-01-29",
-				"country":"中国",
-				"province":"香港特别行政区",
-				"city":"香港",
-				"confirmed":10,
-				"suspected":0,
-				"cured":0,
-				"dead":0
-			}
-		},
-		{
-			"type":"Feature",
-			"geometry":{
-				"type":"Point",
-				"coordinates":[113.54617,22.136623]
-			},
-			"properties":{
-				"date":"2020-01-29",
-				"country":"中国",
-				"province":"澳门特别行政区",
-				"city":"澳门",
-				"confirmed":7,
-				"suspected":0,
-				"cured":0,
-				"dead":0
-			}
 		}
 	]
 }

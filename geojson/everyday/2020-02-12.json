@@ -6890,108 +6890,6 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[88.88517,29.272968]
-			},
-			"properties":{
-				"date":"2020-02-12",
-				"country":"中国",
-				"province":"西藏自治区",
-				"city":"日喀则市",
-				"confirmed":0,
-				"suspected":0,
-				"cured":0,
-				"dead":0
-			}
-		},
-		{
-			"type":"Feature",
-			"geometry":{
-				"type":"Point",
-				"coordinates":[97.17257,31.143627]
-			},
-			"properties":{
-				"date":"2020-02-12",
-				"country":"中国",
-				"province":"西藏自治区",
-				"city":"昌都市",
-				"confirmed":0,
-				"suspected":0,
-				"cured":0,
-				"dead":0
-			}
-		},
-		{
-			"type":"Feature",
-			"geometry":{
-				"type":"Point",
-				"coordinates":[94.36034,29.65089]
-			},
-			"properties":{
-				"date":"2020-02-12",
-				"country":"中国",
-				"province":"西藏自治区",
-				"city":"林芝市",
-				"confirmed":0,
-				"suspected":0,
-				"cured":0,
-				"dead":0
-			}
-		},
-		{
-			"type":"Feature",
-			"geometry":{
-				"type":"Point",
-				"coordinates":[91.77099,29.240084]
-			},
-			"properties":{
-				"date":"2020-02-12",
-				"country":"中国",
-				"province":"西藏自治区",
-				"city":"山南市",
-				"confirmed":0,
-				"suspected":0,
-				"cured":0,
-				"dead":0
-			}
-		},
-		{
-			"type":"Feature",
-			"geometry":{
-				"type":"Point",
-				"coordinates":[92.04962,31.47844]
-			},
-			"properties":{
-				"date":"2020-02-12",
-				"country":"中国",
-				"province":"西藏自治区",
-				"city":"那曲市",
-				"confirmed":0,
-				"suspected":0,
-				"cured":0,
-				"dead":0
-			}
-		},
-		{
-			"type":"Feature",
-			"geometry":{
-				"type":"Point",
-				"coordinates":[80.10399,32.503582]
-			},
-			"properties":{
-				"date":"2020-02-12",
-				"country":"中国",
-				"province":"西藏自治区",
-				"city":"阿里地区",
-				"confirmed":0,
-				"suspected":0,
-				"cured":0,
-				"dead":0
-			}
-		},
-		{
-			"type":"Feature",
-			"geometry":{
-				"type":"Point",
 				"coordinates":[108.94931,34.27106]
 			},
 			"properties":{
@@ -8199,23 +8097,6 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[120.84659,23.770826]
-			},
-			"properties":{
-				"date":"2020-02-12",
-				"country":"中国",
-				"province":"台湾省",
-				"city":"台湾",
-				"confirmed":18,
-				"suspected":0,
-				"cured":1,
-				"dead":0
-			}
-		},
-		{
-			"type":"Feature",
-			"geometry":{
-				"type":"Point",
 				"coordinates":[114.127075,22.412231]
 			},
 			"properties":{
@@ -8227,40 +8108,6 @@
 				"suspected":0,
 				"cured":1,
 				"dead":1
-			}
-		},
-		{
-			"type":"Feature",
-			"geometry":{
-				"type":"Point",
-				"coordinates":[114.127075,22.412231]
-			},
-			"properties":{
-				"date":"2020-02-12",
-				"country":"中国",
-				"province":"香港特别行政区",
-				"city":"香港",
-				"confirmed":50,
-				"suspected":0,
-				"cured":1,
-				"dead":1
-			}
-		},
-		{
-			"type":"Feature",
-			"geometry":{
-				"type":"Point",
-				"coordinates":[113.54617,22.136623]
-			},
-			"properties":{
-				"date":"2020-02-12",
-				"country":"中国",
-				"province":"澳门特别行政区",
-				"city":"澳门",
-				"confirmed":10,
-				"suspected":0,
-				"cured":2,
-				"dead":0
 			}
 		},
 		{

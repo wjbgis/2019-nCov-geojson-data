@@ -337,7 +337,7 @@
 				"city":"未公布来源",
 				"confirmed":0,
 				"suspected":0,
-				"cured":0,
+				"cured":6,
 				"dead":0
 			}
 		},
@@ -539,7 +539,7 @@
 				"country":"中国",
 				"province":"天津市",
 				"city":"宝坻区",
-				"confirmed":53,
+				"confirmed":55,
 				"suspected":0,
 				"cured":12,
 				"dead":2
@@ -728,7 +728,7 @@
 				"city":"张家口市",
 				"confirmed":34,
 				"suspected":0,
-				"cured":15,
+				"cured":24,
 				"dead":0
 			}
 		},
@@ -779,7 +779,7 @@
 				"city":"廊坊市",
 				"confirmed":30,
 				"suspected":0,
-				"cured":18,
+				"cured":20,
 				"dead":0
 			}
 		},
@@ -813,7 +813,7 @@
 				"city":"太原市",
 				"confirmed":19,
 				"suspected":0,
-				"cured":8,
+				"cured":9,
 				"dead":0
 			}
 		},
@@ -2292,7 +2292,7 @@
 				"city":"盐城市",
 				"confirmed":27,
 				"suspected":0,
-				"cured":18,
+				"cured":24,
 				"dead":0
 			}
 		},
@@ -2598,7 +2598,7 @@
 				"city":"合肥市",
 				"confirmed":173,
 				"suspected":0,
-				"cured":71,
+				"cured":75,
 				"dead":1
 			}
 		},
@@ -2632,7 +2632,7 @@
 				"city":"蚌埠市",
 				"confirmed":159,
 				"suspected":0,
-				"cured":30,
+				"cured":40,
 				"dead":5
 			}
 		},
@@ -2649,7 +2649,7 @@
 				"city":"淮南市",
 				"confirmed":27,
 				"suspected":0,
-				"cured":11,
+				"cured":12,
 				"dead":0
 			}
 		},
@@ -2700,7 +2700,7 @@
 				"city":"铜陵市",
 				"confirmed":29,
 				"suspected":0,
-				"cured":12,
+				"cured":13,
 				"dead":0
 			}
 		},
@@ -2819,7 +2819,7 @@
 				"city":"亳州市",
 				"confirmed":108,
 				"suspected":0,
-				"cured":47,
+				"cured":58,
 				"dead":0
 			}
 		},
@@ -2836,7 +2836,7 @@
 				"city":"池州市",
 				"confirmed":17,
 				"suspected":0,
-				"cured":7,
+				"cured":6,
 				"dead":0
 			}
 		},
@@ -3771,7 +3771,7 @@
 				"city":"商丘市",
 				"confirmed":91,
 				"suspected":0,
-				"cured":46,
+				"cured":50,
 				"dead":3
 			}
 		},
@@ -3805,7 +3805,7 @@
 				"city":"周口市",
 				"confirmed":76,
 				"suspected":0,
-				"cured":31,
+				"cured":34,
 				"dead":0
 			}
 		},
@@ -4043,7 +4043,7 @@
 				"city":"咸宁市",
 				"confirmed":832,
 				"suspected":0,
-				"cured":227,
+				"cured":228,
 				"dead":10
 			}
 		},
@@ -6321,7 +6321,7 @@
 				"city":"广安市",
 				"confirmed":30,
 				"suspected":0,
-				"cured":16,
+				"cured":18,
 				"dead":0
 			}
 		},
@@ -6917,108 +6917,6 @@
 				"confirmed":1,
 				"suspected":0,
 				"cured":1,
-				"dead":0
-			}
-		},
-		{
-			"type":"Feature",
-			"geometry":{
-				"type":"Point",
-				"coordinates":[88.88517,29.272968]
-			},
-			"properties":{
-				"date":"2020-02-19",
-				"country":"中国",
-				"province":"西藏自治区",
-				"city":"日喀则市",
-				"confirmed":0,
-				"suspected":0,
-				"cured":0,
-				"dead":0
-			}
-		},
-		{
-			"type":"Feature",
-			"geometry":{
-				"type":"Point",
-				"coordinates":[97.17257,31.143627]
-			},
-			"properties":{
-				"date":"2020-02-19",
-				"country":"中国",
-				"province":"西藏自治区",
-				"city":"昌都市",
-				"confirmed":0,
-				"suspected":0,
-				"cured":0,
-				"dead":0
-			}
-		},
-		{
-			"type":"Feature",
-			"geometry":{
-				"type":"Point",
-				"coordinates":[94.36034,29.65089]
-			},
-			"properties":{
-				"date":"2020-02-19",
-				"country":"中国",
-				"province":"西藏自治区",
-				"city":"林芝市",
-				"confirmed":0,
-				"suspected":0,
-				"cured":0,
-				"dead":0
-			}
-		},
-		{
-			"type":"Feature",
-			"geometry":{
-				"type":"Point",
-				"coordinates":[91.77099,29.240084]
-			},
-			"properties":{
-				"date":"2020-02-19",
-				"country":"中国",
-				"province":"西藏自治区",
-				"city":"山南市",
-				"confirmed":0,
-				"suspected":0,
-				"cured":0,
-				"dead":0
-			}
-		},
-		{
-			"type":"Feature",
-			"geometry":{
-				"type":"Point",
-				"coordinates":[92.04962,31.47844]
-			},
-			"properties":{
-				"date":"2020-02-19",
-				"country":"中国",
-				"province":"西藏自治区",
-				"city":"那曲市",
-				"confirmed":0,
-				"suspected":0,
-				"cured":0,
-				"dead":0
-			}
-		},
-		{
-			"type":"Feature",
-			"geometry":{
-				"type":"Point",
-				"coordinates":[80.10399,32.503582]
-			},
-			"properties":{
-				"date":"2020-02-19",
-				"country":"中国",
-				"province":"西藏自治区",
-				"city":"阿里地区",
-				"confirmed":0,
-				"suspected":0,
-				"cured":0,
 				"dead":0
 			}
 		},
