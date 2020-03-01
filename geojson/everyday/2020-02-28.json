@@ -8,7 +8,7 @@
 				"coordinates":[116.40076,39.903194]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"北京市",
 				"city":"外地来京",
@@ -25,14 +25,14 @@
 				"coordinates":[116.40076,39.903194]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"北京市",
 				"city":"未公布来源",
 				"confirmed":0,
 				"suspected":0,
-				"cured":216,
-				"dead":4
+				"cured":238,
+				"dead":7
 			}
 		},
 		{
@@ -42,7 +42,7 @@
 				"coordinates":[116.40976,39.927197]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"北京市",
 				"city":"东城区",
@@ -59,7 +59,7 @@
 				"coordinates":[116.35979,39.910824]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"北京市",
 				"city":"西城区",
@@ -76,11 +76,11 @@
 				"coordinates":[116.436806,39.91923]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"北京市",
 				"city":"朝阳区",
-				"confirmed":61,
+				"confirmed":70,
 				"suspected":0,
 				"cured":0,
 				"dead":0
@@ -93,11 +93,11 @@
 				"coordinates":[116.27995,39.85736]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"北京市",
 				"city":"丰台区",
-				"confirmed":41,
+				"confirmed":42,
 				"suspected":0,
 				"cured":0,
 				"dead":0
@@ -110,7 +110,7 @@
 				"coordinates":[116.21694,39.904472]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"北京市",
 				"city":"石景山区",
@@ -127,7 +127,7 @@
 				"coordinates":[116.29292,39.95804]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"北京市",
 				"city":"海淀区",
@@ -144,7 +144,7 @@
 				"coordinates":[116.09467,39.939102]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"北京市",
 				"city":"门头沟区",
@@ -161,7 +161,7 @@
 				"coordinates":[116.136765,39.746754]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"北京市",
 				"city":"房山区",
@@ -178,7 +178,7 @@
 				"coordinates":[116.651115,39.908695]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"北京市",
 				"city":"通州区",
@@ -195,7 +195,7 @@
 				"coordinates":[116.64909,40.128986]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"北京市",
 				"city":"顺义区",
@@ -212,7 +212,7 @@
 				"coordinates":[116.224915,40.219456]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"北京市",
 				"city":"昌平区",
@@ -229,7 +229,7 @@
 				"coordinates":[116.33585,39.725574]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"北京市",
 				"city":"大兴区",
@@ -246,7 +246,7 @@
 				"coordinates":[116.62612,40.315193]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"北京市",
 				"city":"怀柔区",
@@ -263,7 +263,7 @@
 				"coordinates":[117.11444,40.13918]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"北京市",
 				"city":"平谷区",
@@ -280,7 +280,7 @@
 				"coordinates":[116.83697,40.37513]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"北京市",
 				"city":"密云区",
@@ -297,7 +297,7 @@
 				"coordinates":[115.96889,40.455273]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"北京市",
 				"city":"延庆区",
@@ -314,13 +314,13 @@
 				"coordinates":[117.19671,39.086796]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"天津市",
 				"city":"外地来津",
 				"confirmed":6,
 				"suspected":0,
-				"cured":5,
+				"cured":6,
 				"dead":0
 			}
 		},
@@ -331,13 +331,13 @@
 				"coordinates":[117.19671,39.086796]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"天津市",
 				"city":"未公布来源",
 				"confirmed":0,
 				"suspected":0,
-				"cured":5,
+				"cured":3,
 				"dead":0
 			}
 		},
@@ -348,7 +348,7 @@
 				"coordinates":[117.20872,39.116295]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"天津市",
 				"city":"和平区",
@@ -365,7 +365,7 @@
 				"coordinates":[117.24573,39.12721]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"天津市",
 				"city":"河东区",
@@ -382,7 +382,7 @@
 				"coordinates":[117.21672,39.10851]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"天津市",
 				"city":"河西区",
@@ -399,13 +399,13 @@
 				"coordinates":[117.14361,39.13697]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"天津市",
 				"city":"南开区",
 				"confirmed":6,
 				"suspected":0,
-				"cured":2,
+				"cured":4,
 				"dead":0
 			}
 		},
@@ -416,7 +416,7 @@
 				"coordinates":[117.19069,39.14665]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"天津市",
 				"city":"河北区",
@@ -433,7 +433,7 @@
 				"coordinates":[117.1446,39.166157]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"天津市",
 				"city":"红桥区",
@@ -450,7 +450,7 @@
 				"coordinates":[117.30762,39.085564]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"天津市",
 				"city":"东丽区",
@@ -467,7 +467,7 @@
 				"coordinates":[117.00183,39.14138]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"天津市",
 				"city":"西青区",
@@ -484,11 +484,11 @@
 				"coordinates":[117.350525,38.936775]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"天津市",
 				"city":"津南区",
-				"confirmed":1,
+				"confirmed":2,
 				"suspected":0,
 				"cured":1,
 				"dead":0
@@ -501,13 +501,13 @@
 				"coordinates":[117.12857,39.222897]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"天津市",
 				"city":"北辰区",
 				"confirmed":6,
 				"suspected":0,
-				"cured":3,
+				"cured":4,
 				"dead":0
 			}
 		},
@@ -518,7 +518,7 @@
 				"coordinates":[117.03765,39.382854]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"天津市",
 				"city":"武清区",
@@ -535,13 +535,13 @@
 				"coordinates":[117.30355,39.716213]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"天津市",
 				"city":"宝坻区",
 				"confirmed":60,
 				"suspected":0,
-				"cured":34,
+				"cured":40,
 				"dead":2
 			}
 		},
@@ -552,7 +552,7 @@
 				"coordinates":[117.70473,39.002205]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"天津市",
 				"city":"滨海新区",
@@ -569,13 +569,13 @@
 				"coordinates":[117.8198,39.329674]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"天津市",
 				"city":"宁河区",
 				"confirmed":4,
 				"suspected":0,
-				"cured":1,
+				"cured":2,
 				"dead":0
 			}
 		},
@@ -586,7 +586,7 @@
 				"coordinates":[116.968,38.946503]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"天津市",
 				"city":"静海区",
@@ -603,7 +603,7 @@
 				"coordinates":[117.40131,40.04437]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"天津市",
 				"city":"蓟州区",
@@ -620,13 +620,13 @@
 				"coordinates":[114.456406,38.045116]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河北省",
 				"city":"石家庄市",
 				"confirmed":29,
 				"suspected":0,
-				"cured":22,
+				"cured":24,
 				"dead":0
 			}
 		},
@@ -637,13 +637,13 @@
 				"coordinates":[118.17372,39.629093]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河北省",
 				"city":"唐山市",
 				"confirmed":58,
 				"suspected":0,
-				"cured":36,
+				"cured":41,
 				"dead":1
 			}
 		},
@@ -654,13 +654,13 @@
 				"coordinates":[119.59623,39.93479]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河北省",
 				"city":"秦皇岛市",
 				"confirmed":10,
 				"suspected":0,
-				"cured":8,
+				"cured":9,
 				"dead":1
 			}
 		},
@@ -671,13 +671,13 @@
 				"coordinates":[114.53327,36.625523]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河北省",
 				"city":"邯郸市",
 				"confirmed":32,
 				"suspected":0,
-				"cured":29,
+				"cured":30,
 				"dead":0
 			}
 		},
@@ -688,7 +688,7 @@
 				"coordinates":[115.01904,37.070927]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河北省",
 				"city":"邢台市",
@@ -705,7 +705,7 @@
 				"coordinates":[115.45868,38.873]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河北省",
 				"city":"保定市",
@@ -722,13 +722,13 @@
 				"coordinates":[114.87989,40.766216]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河北省",
 				"city":"张家口市",
-				"confirmed":35,
+				"confirmed":41,
 				"suspected":0,
-				"cured":32,
+				"cured":33,
 				"dead":0
 			}
 		},
@@ -739,7 +739,7 @@
 				"coordinates":[117.95667,40.94992]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河北省",
 				"city":"承德市",
@@ -756,13 +756,13 @@
 				"coordinates":[116.83321,38.30384]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河北省",
 				"city":"沧州市",
 				"confirmed":48,
 				"suspected":0,
-				"cured":35,
+				"cured":41,
 				"dead":3
 			}
 		},
@@ -773,7 +773,7 @@
 				"coordinates":[116.678085,39.5365]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河北省",
 				"city":"廊坊市",
@@ -790,7 +790,7 @@
 				"coordinates":[115.66312,37.738262]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河北省",
 				"city":"衡水市",
@@ -807,13 +807,13 @@
 				"coordinates":[112.5437,37.87018]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山西省",
 				"city":"太原市",
 				"confirmed":20,
 				"suspected":0,
-				"cured":18,
+				"cured":19,
 				"dead":0
 			}
 		},
@@ -824,7 +824,7 @@
 				"coordinates":[113.292984,40.0751]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山西省",
 				"city":"大同市",
@@ -841,7 +841,7 @@
 				"coordinates":[113.5746,37.856197]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山西省",
 				"city":"阳泉市",
@@ -858,13 +858,13 @@
 				"coordinates":[113.10934,36.19533]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山西省",
 				"city":"长治市",
 				"confirmed":8,
 				"suspected":0,
-				"cured":5,
+				"cured":7,
 				"dead":0
 			}
 		},
@@ -875,13 +875,13 @@
 				"coordinates":[112.845894,35.491016]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山西省",
 				"city":"晋城市",
 				"confirmed":10,
 				"suspected":0,
-				"cured":7,
+				"cured":8,
 				"dead":0
 			}
 		},
@@ -892,7 +892,7 @@
 				"coordinates":[112.426155,39.32964]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山西省",
 				"city":"朔州市",
@@ -909,13 +909,13 @@
 				"coordinates":[112.746506,37.686417]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山西省",
 				"city":"晋中市",
 				"confirmed":37,
 				"suspected":0,
-				"cured":25,
+				"cured":26,
 				"dead":0
 			}
 		},
@@ -926,7 +926,7 @@
 				"coordinates":[111.00119,35.027138]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山西省",
 				"city":"运城市",
@@ -943,13 +943,13 @@
 				"coordinates":[112.72743,38.41612]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山西省",
 				"city":"忻州市",
 				"confirmed":7,
 				"suspected":0,
-				"cured":5,
+				"cured":6,
 				"dead":0
 			}
 		},
@@ -960,7 +960,7 @@
 				"coordinates":[111.51278,36.088024]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山西省",
 				"city":"临汾市",
@@ -977,7 +977,7 @@
 				"coordinates":[111.137634,37.51762]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山西省",
 				"city":"吕梁市",
@@ -994,13 +994,13 @@
 				"coordinates":[111.74208,40.840954]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"内蒙古自治区",
 				"city":"呼和浩特市",
 				"confirmed":7,
 				"suspected":0,
-				"cured":2,
+				"cured":4,
 				"dead":0
 			}
 		},
@@ -1011,13 +1011,13 @@
 				"coordinates":[109.8343,40.655952]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"内蒙古自治区",
 				"city":"包头市",
 				"confirmed":11,
 				"suspected":0,
-				"cured":5,
+				"cured":6,
 				"dead":0
 			}
 		},
@@ -1028,13 +1028,13 @@
 				"coordinates":[106.78924,39.65476]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"内蒙古自治区",
 				"city":"乌海市",
 				"confirmed":2,
 				"suspected":0,
-				"cured":1,
+				"cured":2,
 				"dead":0
 			}
 		},
@@ -1045,13 +1045,13 @@
 				"coordinates":[118.88283,42.253765]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"内蒙古自治区",
 				"city":"赤峰市",
 				"confirmed":9,
 				"suspected":0,
-				"cured":5,
+				"cured":8,
 				"dead":0
 			}
 		},
@@ -1062,7 +1062,7 @@
 				"coordinates":[122.23845,43.64974]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"内蒙古自治区",
 				"city":"通辽市",
@@ -1079,7 +1079,7 @@
 				"coordinates":[109.77528,39.607285]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"内蒙古自治区",
 				"city":"鄂尔多斯市",
@@ -1096,7 +1096,7 @@
 				"coordinates":[119.75866,49.21016]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"内蒙古自治区",
 				"city":"呼伦贝尔市",
@@ -1113,7 +1113,7 @@
 				"coordinates":[107.38241,40.741653]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"内蒙古自治区",
 				"city":"巴彦淖尔市",
@@ -1130,7 +1130,7 @@
 				"coordinates":[113.12573,40.99293]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"内蒙古自治区",
 				"city":"乌兰察布市",
@@ -1147,13 +1147,13 @@
 				"coordinates":[122.031876,46.080128]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"内蒙古自治区",
 				"city":"兴安盟",
 				"confirmed":1,
 				"suspected":0,
-				"cured":0,
+				"cured":1,
 				"dead":0
 			}
 		},
@@ -1164,7 +1164,7 @@
 				"coordinates":[116.04116,43.930912]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"内蒙古自治区",
 				"city":"锡林郭勒盟",
@@ -1181,7 +1181,7 @@
 				"coordinates":[105.72473,38.851433]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"内蒙古自治区",
 				"city":"阿拉善盟",
@@ -1198,13 +1198,13 @@
 				"coordinates":[123.458626,41.675217]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"辽宁省",
 				"city":"沈阳市",
 				"confirmed":28,
 				"suspected":0,
-				"cured":24,
+				"cured":23,
 				"dead":0
 			}
 		},
@@ -1215,13 +1215,13 @@
 				"coordinates":[121.610054,38.912525]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"辽宁省",
 				"city":"大连市",
 				"confirmed":19,
 				"suspected":0,
-				"cured":11,
+				"cured":12,
 				"dead":0
 			}
 		},
@@ -1232,13 +1232,13 @@
 				"coordinates":[122.989494,41.106777]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"辽宁省",
 				"city":"鞍山市",
 				"confirmed":4,
 				"suspected":0,
-				"cured":0,
+				"cured":1,
 				"dead":0
 			}
 		},
@@ -1249,7 +1249,7 @@
 				"coordinates":[123.68017,41.484867]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"辽宁省",
 				"city":"本溪市",
@@ -1266,7 +1266,7 @@
 				"coordinates":[124.34923,39.998955]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"辽宁省",
 				"city":"丹东市",
@@ -1283,7 +1283,7 @@
 				"coordinates":[121.12035,41.09315]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"辽宁省",
 				"city":"锦州市",
@@ -1300,7 +1300,7 @@
 				"coordinates":[122.22983,40.665833]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"辽宁省",
 				"city":"营口市",
@@ -1317,7 +1317,7 @@
 				"coordinates":[121.66459,42.01959]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"辽宁省",
 				"city":"阜新市",
@@ -1334,7 +1334,7 @@
 				"coordinates":[123.23126,41.26573]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"辽宁省",
 				"city":"辽阳市",
@@ -1351,13 +1351,13 @@
 				"coordinates":[122.065506,41.117805]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"辽宁省",
 				"city":"盘锦市",
 				"confirmed":11,
 				"suspected":0,
-				"cured":9,
+				"cured":11,
 				"dead":0
 			}
 		},
@@ -1368,7 +1368,7 @@
 				"coordinates":[123.719986,42.22137]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"辽宁省",
 				"city":"铁岭市",
@@ -1385,7 +1385,7 @@
 				"coordinates":[120.44532,41.571514]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"辽宁省",
 				"city":"朝阳市",
@@ -1402,7 +1402,7 @@
 				"coordinates":[120.831825,40.709553]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"辽宁省",
 				"city":"葫芦岛市",
@@ -1419,13 +1419,13 @@
 				"coordinates":[125.31749,43.813747]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"吉林省",
 				"city":"长春市",
 				"confirmed":45,
 				"suspected":0,
-				"cured":33,
+				"cured":37,
 				"dead":0
 			}
 		},
@@ -1436,7 +1436,7 @@
 				"coordinates":[126.54331,43.835644]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"吉林省",
 				"city":"吉林市",
@@ -1453,7 +1453,7 @@
 				"coordinates":[124.343796,43.163425]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"吉林省",
 				"city":"四平市",
@@ -1470,13 +1470,13 @@
 				"coordinates":[124.81696,43.502316]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"吉林省",
 				"city":"公主岭市",
 				"confirmed":6,
 				"suspected":0,
-				"cured":4,
+				"cured":5,
 				"dead":0
 			}
 		},
@@ -1487,13 +1487,13 @@
 				"coordinates":[125.1376,42.88528]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"吉林省",
 				"city":"辽源市",
 				"confirmed":7,
 				"suspected":0,
-				"cured":2,
+				"cured":4,
 				"dead":0
 			}
 		},
@@ -1504,13 +1504,13 @@
 				"coordinates":[125.93434,41.726032]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"吉林省",
 				"city":"通化市",
 				"confirmed":6,
 				"suspected":0,
-				"cured":2,
+				"cured":3,
 				"dead":0
 			}
 		},
@@ -1521,7 +1521,7 @@
 				"coordinates":[125.70492,42.53693]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"吉林省",
 				"city":"梅河口市",
@@ -1538,7 +1538,7 @@
 				"coordinates":[126.417145,41.93149]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"吉林省",
 				"city":"白山市",
@@ -1555,7 +1555,7 @@
 				"coordinates":[124.81871,45.13933]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"吉林省",
 				"city":"松原市",
@@ -1572,7 +1572,7 @@
 				"coordinates":[122.83313,45.61779]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"吉林省",
 				"city":"白城市",
@@ -1589,7 +1589,7 @@
 				"coordinates":[129.46393,42.906826]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"吉林省",
 				"city":"延边朝鲜族自治州",
@@ -1606,14 +1606,14 @@
 				"coordinates":[126.52896,45.801216]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"黑龙江省",
 				"city":"哈尔滨市",
 				"confirmed":198,
 				"suspected":0,
-				"cured":77,
-				"dead":3
+				"cured":94,
+				"dead":4
 			}
 		},
 		{
@@ -1623,13 +1623,13 @@
 				"coordinates":[123.91145,47.35216]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"黑龙江省",
 				"city":"齐齐哈尔市",
 				"confirmed":43,
 				"suspected":0,
-				"cured":26,
+				"cured":33,
 				"dead":1
 			}
 		},
@@ -1640,13 +1640,13 @@
 				"coordinates":[130.96155,45.293037]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"黑龙江省",
 				"city":"鸡西市",
 				"confirmed":46,
 				"suspected":0,
-				"cured":22,
+				"cured":30,
 				"dead":0
 			}
 		},
@@ -1657,7 +1657,7 @@
 				"coordinates":[130.29015,47.347458]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"黑龙江省",
 				"city":"鹤岗市",
@@ -1674,13 +1674,13 @@
 				"coordinates":[131.1509,46.644573]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"黑龙江省",
 				"city":"双鸭山市",
 				"confirmed":52,
 				"suspected":0,
-				"cured":28,
+				"cured":32,
 				"dead":3
 			}
 		},
@@ -1691,13 +1691,13 @@
 				"coordinates":[125.09495,46.585896]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"黑龙江省",
 				"city":"大庆市",
 				"confirmed":26,
 				"suspected":0,
-				"cured":12,
+				"cured":16,
 				"dead":1
 			}
 		},
@@ -1708,13 +1708,13 @@
 				"coordinates":[128.83395,47.72523]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"黑龙江省",
 				"city":"伊春市",
 				"confirmed":1,
 				"suspected":0,
-				"cured":0,
+				"cured":1,
 				"dead":0
 			}
 		},
@@ -1725,7 +1725,7 @@
 				"coordinates":[130.3132,46.797073]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"黑龙江省",
 				"city":"佳木斯市",
@@ -1742,13 +1742,13 @@
 				"coordinates":[130.99728,45.768166]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"黑龙江省",
 				"city":"七台河市",
 				"confirmed":17,
 				"suspected":0,
-				"cured":11,
+				"cured":13,
 				"dead":0
 			}
 		},
@@ -1759,13 +1759,13 @@
 				"coordinates":[129.62592,44.548332]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"黑龙江省",
 				"city":"牡丹江市",
 				"confirmed":14,
 				"suspected":0,
-				"cured":8,
+				"cured":9,
 				"dead":0
 			}
 		},
@@ -1776,7 +1776,7 @@
 				"coordinates":[127.52172,50.24368]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"黑龙江省",
 				"city":"黑河市",
@@ -1793,7 +1793,7 @@
 				"coordinates":[126.96268,46.651794]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"黑龙江省",
 				"city":"绥化市",
@@ -1810,7 +1810,7 @@
 				"coordinates":[124.13872,50.41272]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"黑龙江省",
 				"city":"大兴安岭地区",
@@ -1827,13 +1827,13 @@
 				"coordinates":[121.469475,31.231943]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"上海市",
 				"city":"外地来沪",
 				"confirmed":111,
 				"suspected":0,
-				"cured":89,
+				"cured":91,
 				"dead":1
 			}
 		},
@@ -1844,7 +1844,7 @@
 				"coordinates":[121.469475,31.231943]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"上海市",
 				"city":"未公布来源",
@@ -1861,7 +1861,7 @@
 				"coordinates":[121.480515,31.233475]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"上海市",
 				"city":"黄浦区",
@@ -1878,7 +1878,7 @@
 				"coordinates":[121.43238,31.190083]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"上海市",
 				"city":"徐汇区",
@@ -1895,7 +1895,7 @@
 				"coordinates":[121.419365,31.22245]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"上海市",
 				"city":"长宁区",
@@ -1912,7 +1912,7 @@
 				"coordinates":[121.442406,31.22938]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"上海市",
 				"city":"静安区",
@@ -1929,7 +1929,7 @@
 				"coordinates":[121.39235,31.251026]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"上海市",
 				"city":"普陀区",
@@ -1946,7 +1946,7 @@
 				"coordinates":[121.50059,31.266117]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"上海市",
 				"city":"虹口区",
@@ -1963,13 +1963,13 @@
 				"coordinates":[121.52166,31.26168]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"上海市",
 				"city":"杨浦区",
 				"confirmed":9,
 				"suspected":0,
-				"cured":7,
+				"cured":8,
 				"dead":0
 			}
 		},
@@ -1980,13 +1980,13 @@
 				"coordinates":[121.37737,31.115103]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"上海市",
 				"city":"闵行区",
 				"confirmed":19,
 				"suspected":0,
-				"cured":17,
+				"cured":18,
 				"dead":0
 			}
 		},
@@ -1997,7 +1997,7 @@
 				"coordinates":[121.48552,31.406525]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"上海市",
 				"city":"宝山区",
@@ -2014,13 +2014,13 @@
 				"coordinates":[121.26155,31.376461]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"上海市",
 				"city":"嘉定区",
 				"confirmed":9,
 				"suspected":0,
-				"cured":6,
+				"cured":7,
 				"dead":0
 			}
 		},
@@ -2031,13 +2031,13 @@
 				"coordinates":[121.53972,31.223246]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"上海市",
 				"city":"浦东新区",
 				"confirmed":60,
 				"suspected":0,
-				"cured":50,
+				"cured":52,
 				"dead":0
 			}
 		},
@@ -2048,11 +2048,11 @@
 				"coordinates":[121.33747,30.743872]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"上海市",
 				"city":"金山区",
-				"confirmed":3,
+				"confirmed":4,
 				"suspected":0,
 				"cured":3,
 				"dead":0
@@ -2065,7 +2065,7 @@
 				"coordinates":[121.22359,31.03322]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"上海市",
 				"city":"松江区",
@@ -2082,7 +2082,7 @@
 				"coordinates":[121.1194,31.151594]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"上海市",
 				"city":"青浦区",
@@ -2099,7 +2099,7 @@
 				"coordinates":[121.469505,30.919916]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"上海市",
 				"city":"奉贤区",
@@ -2116,7 +2116,7 @@
 				"coordinates":[121.39232,31.62454]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"上海市",
 				"city":"崇明区",
@@ -2133,7 +2133,7 @@
 				"coordinates":[118.79082,32.060375]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江苏省",
 				"city":"南京市",
@@ -2150,13 +2150,13 @@
 				"coordinates":[120.30739,31.494987]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江苏省",
 				"city":"无锡市",
 				"confirmed":55,
 				"suspected":0,
-				"cured":42,
+				"cured":48,
 				"dead":0
 			}
 		},
@@ -2167,13 +2167,13 @@
 				"coordinates":[117.278244,34.20819]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江苏省",
 				"city":"徐州市",
 				"confirmed":79,
 				"suspected":0,
-				"cured":69,
+				"cured":71,
 				"dead":0
 			}
 		},
@@ -2184,7 +2184,7 @@
 				"coordinates":[119.970245,31.811737]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江苏省",
 				"city":"常州市",
@@ -2201,13 +2201,13 @@
 				"coordinates":[120.581825,31.299486]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江苏省",
 				"city":"苏州市",
 				"confirmed":87,
 				"suspected":0,
-				"cured":59,
+				"cured":62,
 				"dead":0
 			}
 		},
@@ -2218,13 +2218,13 @@
 				"coordinates":[120.890785,31.98307]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江苏省",
 				"city":"南通市",
 				"confirmed":40,
 				"suspected":0,
-				"cured":35,
+				"cured":37,
 				"dead":0
 			}
 		},
@@ -2235,13 +2235,13 @@
 				"coordinates":[119.21647,34.597633]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江苏省",
 				"city":"连云港市",
 				"confirmed":48,
 				"suspected":0,
-				"cured":27,
+				"cured":35,
 				"dead":0
 			}
 		},
@@ -2252,13 +2252,13 @@
 				"coordinates":[119.009544,33.611595]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江苏省",
 				"city":"淮安市",
 				"confirmed":66,
 				"suspected":0,
-				"cured":50,
+				"cured":55,
 				"dead":0
 			}
 		},
@@ -2269,13 +2269,13 @@
 				"coordinates":[120.15605,33.350735]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江苏省",
 				"city":"盐城市",
 				"confirmed":27,
 				"suspected":0,
-				"cured":24,
+				"cured":25,
 				"dead":0
 			}
 		},
@@ -2286,13 +2286,13 @@
 				"coordinates":[119.40752,32.39628]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江苏省",
 				"city":"扬州市",
 				"confirmed":23,
 				"suspected":0,
-				"cured":17,
+				"cured":19,
 				"dead":0
 			}
 		},
@@ -2303,7 +2303,7 @@
 				"coordinates":[119.41856,32.190475]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江苏省",
 				"city":"镇江市",
@@ -2320,13 +2320,13 @@
 				"coordinates":[119.91827,32.457123]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江苏省",
 				"city":"泰州市",
 				"confirmed":37,
 				"suspected":0,
-				"cured":28,
+				"cured":37,
 				"dead":0
 			}
 		},
@@ -2337,13 +2337,13 @@
 				"coordinates":[118.26949,33.96335]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江苏省",
 				"city":"宿迁市",
 				"confirmed":13,
 				"suspected":0,
-				"cured":11,
+				"cured":12,
 				"dead":0
 			}
 		},
@@ -2354,13 +2354,13 @@
 				"coordinates":[120.1483,30.267927]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"浙江省",
 				"city":"未公布来源",
 				"confirmed":0,
 				"suspected":0,
-				"cured":7,
+				"cured":6,
 				"dead":0
 			}
 		},
@@ -2371,13 +2371,13 @@
 				"coordinates":[120.20446,30.249525]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"浙江省",
 				"city":"杭州市",
 				"confirmed":169,
 				"suspected":0,
-				"cured":139,
+				"cured":151,
 				"dead":0
 			}
 		},
@@ -2388,13 +2388,13 @@
 				"coordinates":[121.617905,29.863022]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"浙江省",
 				"city":"宁波市",
 				"confirmed":157,
 				"suspected":0,
-				"cured":122,
+				"cured":140,
 				"dead":0
 			}
 		},
@@ -2405,13 +2405,13 @@
 				"coordinates":[120.69594,27.998182]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"浙江省",
 				"city":"温州市",
 				"confirmed":504,
 				"suspected":0,
-				"cured":354,
+				"cured":405,
 				"dead":1
 			}
 		},
@@ -2422,13 +2422,13 @@
 				"coordinates":[120.75268,30.747402]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"浙江省",
 				"city":"嘉兴市",
 				"confirmed":45,
 				"suspected":0,
-				"cured":28,
+				"cured":34,
 				"dead":0
 			}
 		},
@@ -2439,13 +2439,13 @@
 				"coordinates":[120.08313,30.895044]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"浙江省",
 				"city":"湖州市",
 				"confirmed":10,
 				"suspected":0,
-				"cured":7,
+				"cured":9,
 				"dead":0
 			}
 		},
@@ -2456,13 +2456,13 @@
 				"coordinates":[120.57492,30.032835]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"浙江省",
 				"city":"绍兴市",
 				"confirmed":42,
 				"suspected":0,
-				"cured":30,
+				"cured":36,
 				"dead":0
 			}
 		},
@@ -2473,13 +2473,13 @@
 				"coordinates":[119.642296,29.081278]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"浙江省",
 				"city":"金华市",
 				"confirmed":55,
 				"suspected":0,
-				"cured":43,
+				"cured":50,
 				"dead":0
 			}
 		},
@@ -2490,7 +2490,7 @@
 				"coordinates":[118.85521,28.972986]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"浙江省",
 				"city":"衢州市",
@@ -2507,13 +2507,13 @@
 				"coordinates":[122.20284,29.987602]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"浙江省",
 				"city":"舟山市",
 				"confirmed":10,
 				"suspected":0,
-				"cured":6,
+				"cured":7,
 				"dead":0
 			}
 		},
@@ -2524,13 +2524,13 @@
 				"coordinates":[121.41657,28.658953]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"浙江省",
 				"city":"台州市",
 				"confirmed":146,
 				"suspected":0,
-				"cured":101,
+				"cured":106,
 				"dead":0
 			}
 		},
@@ -2541,13 +2541,30 @@
 				"coordinates":[119.918594,28.470907]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"浙江省",
 				"city":"丽水市",
 				"confirmed":17,
 				"suspected":0,
-				"cured":14,
+				"cured":17,
+				"dead":0
+			}
+		},
+		{
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[117.3184,31.730307]
+			},
+			"properties":{
+				"date":"2020-02-28",
+				"country":"中国",
+				"province":"安徽省",
+				"city":"未公布来源",
+				"confirmed":0,
+				"suspected":0,
+				"cured":2,
 				"dead":0
 			}
 		},
@@ -2558,13 +2575,13 @@
 				"coordinates":[117.22152,31.8223]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"安徽省",
 				"city":"合肥市",
 				"confirmed":174,
 				"suspected":0,
-				"cured":127,
+				"cured":138,
 				"dead":1
 			}
 		},
@@ -2575,13 +2592,13 @@
 				"coordinates":[118.42762,31.354053]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"安徽省",
 				"city":"芜湖市",
-				"confirmed":33,
+				"confirmed":34,
 				"suspected":0,
-				"cured":28,
+				"cured":30,
 				"dead":0
 			}
 		},
@@ -2592,13 +2609,13 @@
 				"coordinates":[117.383156,32.917206]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"安徽省",
 				"city":"蚌埠市",
 				"confirmed":160,
 				"suspected":0,
-				"cured":119,
+				"cured":136,
 				"dead":5
 			}
 		},
@@ -2609,13 +2626,13 @@
 				"coordinates":[116.994576,32.62755]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"安徽省",
 				"city":"淮南市",
 				"confirmed":27,
 				"suspected":0,
-				"cured":18,
+				"cured":21,
 				"dead":0
 			}
 		},
@@ -2626,13 +2643,13 @@
 				"coordinates":[118.50182,31.672592]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"安徽省",
 				"city":"马鞍山市",
 				"confirmed":38,
 				"suspected":0,
-				"cured":25,
+				"cured":30,
 				"dead":0
 			}
 		},
@@ -2643,7 +2660,7 @@
 				"coordinates":[116.7926,33.95723]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"安徽省",
 				"city":"淮北市",
@@ -2660,13 +2677,13 @@
 				"coordinates":[117.80666,30.947495]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"安徽省",
 				"city":"铜陵市",
 				"confirmed":29,
 				"suspected":0,
-				"cured":22,
+				"cured":28,
 				"dead":0
 			}
 		},
@@ -2677,13 +2694,13 @@
 				"coordinates":[117.05156,30.5276]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"安徽省",
 				"city":"安庆市",
 				"confirmed":83,
 				"suspected":0,
-				"cured":74,
+				"cured":80,
 				"dead":0
 			}
 		},
@@ -2694,7 +2711,7 @@
 				"coordinates":[118.33379,29.718096]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"安徽省",
 				"city":"黄山市",
@@ -2711,13 +2728,13 @@
 				"coordinates":[118.327576,32.256973]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"安徽省",
 				"city":"滁州市",
 				"confirmed":13,
 				"suspected":0,
-				"cured":9,
+				"cured":10,
 				"dead":0
 			}
 		},
@@ -2728,13 +2745,13 @@
 				"coordinates":[115.80863,32.891796]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"安徽省",
 				"city":"阜阳市",
 				"confirmed":155,
 				"suspected":0,
-				"cured":112,
+				"cured":128,
 				"dead":0
 			}
 		},
@@ -2745,13 +2762,13 @@
 				"coordinates":[116.95862,33.647766]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"安徽省",
 				"city":"宿州市",
 				"confirmed":41,
 				"suspected":0,
-				"cured":30,
+				"cured":33,
 				"dead":0
 			}
 		},
@@ -2762,13 +2779,13 @@
 				"coordinates":[116.514915,31.737165]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"安徽省",
 				"city":"六安市",
 				"confirmed":69,
 				"suspected":0,
-				"cured":46,
+				"cured":53,
 				"dead":0
 			}
 		},
@@ -2779,13 +2796,13 @@
 				"coordinates":[115.77246,33.845943]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"安徽省",
 				"city":"亳州市",
 				"confirmed":108,
 				"suspected":0,
-				"cured":89,
+				"cured":99,
 				"dead":0
 			}
 		},
@@ -2796,7 +2813,7 @@
 				"coordinates":[117.486534,30.666962]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"安徽省",
 				"city":"池州市",
@@ -2813,7 +2830,7 @@
 				"coordinates":[118.753876,30.94302]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"安徽省",
 				"city":"宣城市",
@@ -2830,13 +2847,13 @@
 				"coordinates":[117.8752,27.294764]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"福建省",
 				"city":"未公布来源",
 				"confirmed":0,
 				"suspected":0,
-				"cured":6,
+				"cured":4,
 				"dead":0
 			}
 		},
@@ -2847,13 +2864,13 @@
 				"coordinates":[119.2922,26.077301]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"福建省",
 				"city":"福州市",
-				"confirmed":71,
+				"confirmed":72,
 				"suspected":0,
-				"cured":65,
+				"cured":69,
 				"dead":1
 			}
 		},
@@ -2864,13 +2881,13 @@
 				"coordinates":[118.08502,24.481747]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"福建省",
 				"city":"厦门市",
 				"confirmed":35,
 				"suspected":0,
-				"cured":30,
+				"cured":34,
 				"dead":0
 			}
 		},
@@ -2881,13 +2898,13 @@
 				"coordinates":[119.003265,25.45668]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"福建省",
 				"city":"莆田市",
-				"confirmed":55,
+				"confirmed":56,
 				"suspected":0,
-				"cured":31,
+				"cured":36,
 				"dead":0
 			}
 		},
@@ -2898,13 +2915,13 @@
 				"coordinates":[117.6341,26.267324]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"福建省",
 				"city":"三明市",
 				"confirmed":14,
 				"suspected":0,
-				"cured":8,
+				"cured":12,
 				"dead":0
 			}
 		},
@@ -2915,13 +2932,13 @@
 				"coordinates":[118.671455,24.876509]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"福建省",
 				"city":"泉州市",
 				"confirmed":47,
 				"suspected":0,
-				"cured":23,
+				"cured":30,
 				"dead":0
 			}
 		},
@@ -2932,7 +2949,7 @@
 				"coordinates":[117.64221,24.51618]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"福建省",
 				"city":"漳州市",
@@ -2949,13 +2966,13 @@
 				"coordinates":[118.17291,26.644926]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"福建省",
 				"city":"南平市",
 				"confirmed":20,
 				"suspected":0,
-				"cured":12,
+				"cured":14,
 				"dead":0
 			}
 		},
@@ -2966,7 +2983,7 @@
 				"coordinates":[117.01212,25.077759]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"福建省",
 				"city":"龙岩市",
@@ -2983,7 +3000,7 @@
 				"coordinates":[119.54342,26.669697]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"福建省",
 				"city":"宁德市",
@@ -3000,13 +3017,13 @@
 				"coordinates":[115.83876,28.463375]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江西省",
 				"city":"赣江新区",
 				"confirmed":1,
 				"suspected":0,
-				"cured":0,
+				"cured":1,
 				"dead":0
 			}
 		},
@@ -3017,13 +3034,13 @@
 				"coordinates":[115.853096,28.68713]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江西省",
 				"city":"南昌市",
-				"confirmed":229,
+				"confirmed":230,
 				"suspected":0,
-				"cured":187,
+				"cured":198,
 				"dead":0
 			}
 		},
@@ -3034,7 +3051,7 @@
 				"coordinates":[117.17268,29.271242]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江西省",
 				"city":"景德镇市",
@@ -3051,13 +3068,13 @@
 				"coordinates":[113.8497,27.625711]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江西省",
 				"city":"萍乡市",
 				"confirmed":33,
 				"suspected":0,
-				"cured":18,
+				"cured":23,
 				"dead":0
 			}
 		},
@@ -3068,13 +3085,13 @@
 				"coordinates":[115.99591,29.70804]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江西省",
 				"city":"九江市",
 				"confirmed":118,
 				"suspected":0,
-				"cured":71,
+				"cured":91,
 				"dead":0
 			}
 		},
@@ -3085,13 +3102,13 @@
 				"coordinates":[114.912155,27.821257]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江西省",
 				"city":"新余市",
 				"confirmed":130,
 				"suspected":0,
-				"cured":111,
+				"cured":118,
 				"dead":0
 			}
 		},
@@ -3102,13 +3119,13 @@
 				"coordinates":[117.06373,28.263233]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江西省",
 				"city":"鹰潭市",
 				"confirmed":18,
 				"suspected":0,
-				"cured":10,
+				"cured":12,
 				"dead":0
 			}
 		},
@@ -3119,13 +3136,13 @@
 				"coordinates":[114.929276,25.832281]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江西省",
 				"city":"赣州市",
 				"confirmed":76,
 				"suspected":0,
-				"cured":57,
+				"cured":63,
 				"dead":1
 			}
 		},
@@ -3136,13 +3153,13 @@
 				"coordinates":[114.98901,27.11715]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江西省",
 				"city":"吉安市",
 				"confirmed":22,
 				"suspected":0,
-				"cured":13,
+				"cured":15,
 				"dead":0
 			}
 		},
@@ -3153,13 +3170,13 @@
 				"coordinates":[114.4117,27.818302]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江西省",
 				"city":"宜春市",
 				"confirmed":106,
 				"suspected":0,
-				"cured":90,
+				"cured":96,
 				"dead":0
 			}
 		},
@@ -3170,13 +3187,13 @@
 				"coordinates":[116.353,27.952234]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江西省",
 				"city":"抚州市",
 				"confirmed":72,
 				"suspected":0,
-				"cured":58,
+				"cured":61,
 				"dead":0
 			}
 		},
@@ -3187,13 +3204,13 @@
 				"coordinates":[117.93802,28.457808]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"江西省",
 				"city":"上饶市",
 				"confirmed":123,
 				"suspected":0,
-				"cured":101,
+				"cured":109,
 				"dead":0
 			}
 		},
@@ -3204,7 +3221,7 @@
 				"coordinates":[117.11388,36.649773]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山东省",
 				"city":"济南市",
@@ -3221,13 +3238,13 @@
 				"coordinates":[120.37787,36.065823]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山东省",
 				"city":"青岛市",
 				"confirmed":60,
 				"suspected":0,
-				"cured":39,
+				"cured":45,
 				"dead":1
 			}
 		},
@@ -3238,13 +3255,13 @@
 				"coordinates":[118.04892,36.812477]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山东省",
 				"city":"淄博市",
 				"confirmed":30,
 				"suspected":0,
-				"cured":18,
+				"cured":21,
 				"dead":1
 			}
 		},
@@ -3255,7 +3272,7 @@
 				"coordinates":[117.31809,34.810894]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山东省",
 				"city":"枣庄市",
@@ -3272,7 +3289,7 @@
 				"coordinates":[118.669334,37.43262]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山东省",
 				"city":"东营市",
@@ -3289,13 +3306,13 @@
 				"coordinates":[121.442795,37.46273]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山东省",
 				"city":"烟台市",
 				"confirmed":47,
 				"suspected":0,
-				"cured":26,
+				"cured":30,
 				"dead":0
 			}
 		},
@@ -3306,13 +3323,13 @@
 				"coordinates":[119.15612,36.705856]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山东省",
 				"city":"潍坊市",
 				"confirmed":44,
 				"suspected":0,
-				"cured":24,
+				"cured":27,
 				"dead":0
 			}
 		},
@@ -3323,13 +3340,13 @@
 				"coordinates":[116.58171,35.414948]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山东省",
 				"city":"济宁市",
 				"confirmed":258,
 				"suspected":0,
-				"cured":43,
+				"cured":45,
 				"dead":0
 			}
 		},
@@ -3340,13 +3357,13 @@
 				"coordinates":[117.08193,36.19965]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山东省",
 				"city":"泰安市",
 				"confirmed":35,
 				"suspected":0,
-				"cured":23,
+				"cured":26,
 				"dead":2
 			}
 		},
@@ -3357,13 +3374,13 @@
 				"coordinates":[122.115944,37.509567]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山东省",
 				"city":"威海市",
 				"confirmed":38,
 				"suspected":0,
-				"cured":27,
+				"cured":28,
 				"dead":0
 			}
 		},
@@ -3374,13 +3391,13 @@
 				"coordinates":[119.52157,35.416786]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山东省",
 				"city":"日照市",
 				"confirmed":16,
 				"suspected":0,
-				"cured":11,
+				"cured":12,
 				"dead":0
 			}
 		},
@@ -3391,7 +3408,7 @@
 				"coordinates":[118.35124,35.10519]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山东省",
 				"city":"临沂市",
@@ -3408,13 +3425,13 @@
 				"coordinates":[116.353096,37.43463]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山东省",
 				"city":"德州市",
 				"confirmed":37,
 				"suspected":0,
-				"cured":15,
+				"cured":16,
 				"dead":2
 			}
 		},
@@ -3425,13 +3442,13 @@
 				"coordinates":[115.979324,36.457012]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山东省",
 				"city":"聊城市",
 				"confirmed":38,
 				"suspected":0,
-				"cured":30,
+				"cured":33,
 				"dead":0
 			}
 		},
@@ -3442,7 +3459,7 @@
 				"coordinates":[117.965096,37.38125]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山东省",
 				"city":"滨州市",
@@ -3459,7 +3476,7 @@
 				"coordinates":[115.47515,35.233997]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"山东省",
 				"city":"菏泽市",
@@ -3476,14 +3493,14 @@
 				"coordinates":[113.74682,34.76639]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河南省",
 				"city":"未公布来源",
 				"confirmed":0,
 				"suspected":0,
-				"cured":14,
-				"dead":5
+				"cured":0,
+				"dead":6
 			}
 		},
 		{
@@ -3493,13 +3510,13 @@
 				"coordinates":[113.61895,34.748383]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河南省",
 				"city":"郑州市",
 				"confirmed":157,
 				"suspected":0,
-				"cured":123,
+				"cured":130,
 				"dead":0
 			}
 		},
@@ -3510,13 +3527,13 @@
 				"coordinates":[114.302155,34.79809]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河南省",
 				"city":"开封市",
 				"confirmed":26,
 				"suspected":0,
-				"cured":16,
+				"cured":18,
 				"dead":0
 			}
 		},
@@ -3527,13 +3544,13 @@
 				"coordinates":[112.44675,34.619022]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河南省",
 				"city":"洛阳市",
 				"confirmed":31,
 				"suspected":0,
-				"cured":24,
+				"cured":26,
 				"dead":0
 			}
 		},
@@ -3544,13 +3561,13 @@
 				"coordinates":[113.18673,33.767536]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河南省",
 				"city":"平顶山市",
 				"confirmed":58,
 				"suspected":0,
-				"cured":44,
+				"cured":53,
 				"dead":1
 			}
 		},
@@ -3561,13 +3578,13 @@
 				"coordinates":[114.38691,36.099827]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河南省",
 				"city":"安阳市",
 				"confirmed":53,
 				"suspected":0,
-				"cured":43,
+				"cured":46,
 				"dead":0
 			}
 		},
@@ -3578,13 +3595,13 @@
 				"coordinates":[114.29107,35.74677]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河南省",
 				"city":"鹤壁市",
 				"confirmed":19,
 				"suspected":0,
-				"cured":15,
+				"cured":17,
 				"dead":0
 			}
 		},
@@ -3595,13 +3612,13 @@
 				"coordinates":[113.9211,35.304485]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河南省",
 				"city":"新乡市",
 				"confirmed":57,
 				"suspected":0,
-				"cured":49,
+				"cured":51,
 				"dead":3
 			}
 		},
@@ -3612,13 +3629,13 @@
 				"coordinates":[113.235634,35.21561]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河南省",
 				"city":"焦作市",
 				"confirmed":32,
 				"suspected":0,
-				"cured":28,
+				"cured":31,
 				"dead":1
 			}
 		},
@@ -3629,13 +3646,13 @@
 				"coordinates":[115.02311,35.761906]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河南省",
 				"city":"濮阳市",
 				"confirmed":17,
 				"suspected":0,
-				"cured":10,
+				"cured":13,
 				"dead":0
 			}
 		},
@@ -3646,13 +3663,13 @@
 				"coordinates":[113.84613,34.036957]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河南省",
 				"city":"许昌市",
 				"confirmed":39,
 				"suspected":0,
-				"cured":32,
+				"cured":37,
 				"dead":0
 			}
 		},
@@ -3663,13 +3680,13 @@
 				"coordinates":[114.01107,33.582985]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河南省",
 				"city":"漯河市",
 				"confirmed":35,
 				"suspected":0,
-				"cured":25,
+				"cured":30,
 				"dead":0
 			}
 		},
@@ -3680,7 +3697,7 @@
 				"coordinates":[111.19401,34.773487]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河南省",
 				"city":"三门峡市",
@@ -3697,13 +3714,13 @@
 				"coordinates":[112.522156,32.9926]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河南省",
 				"city":"南阳市",
-				"confirmed":155,
+				"confirmed":156,
 				"suspected":0,
-				"cured":129,
+				"cured":139,
 				"dead":3
 			}
 		},
@@ -3714,13 +3731,13 @@
 				"coordinates":[115.65049,34.415466]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河南省",
 				"city":"商丘市",
 				"confirmed":91,
 				"suspected":0,
-				"cured":80,
+				"cured":84,
 				"dead":3
 			}
 		},
@@ -3731,13 +3748,13 @@
 				"coordinates":[114.08511,32.148945]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河南省",
 				"city":"信阳市",
 				"confirmed":274,
 				"suspected":0,
-				"cured":209,
+				"cured":232,
 				"dead":2
 			}
 		},
@@ -3748,13 +3765,13 @@
 				"coordinates":[114.69153,33.62726]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河南省",
 				"city":"周口市",
 				"confirmed":76,
 				"suspected":0,
-				"cured":56,
+				"cured":65,
 				"dead":0
 			}
 		},
@@ -3765,13 +3782,13 @@
 				"coordinates":[114.01611,33.01351]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河南省",
 				"city":"驻马店市",
 				"confirmed":139,
 				"suspected":0,
-				"cured":126,
+				"cured":135,
 				"dead":0
 			}
 		},
@@ -3782,7 +3799,7 @@
 				"coordinates":[112.59606,35.06797]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"河南省",
 				"city":"济源市",
@@ -3799,14 +3816,14 @@
 				"coordinates":[114.29955,30.59521]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖北省",
 				"city":"武汉市",
-				"confirmed":47441,
+				"confirmed":48137,
 				"suspected":0,
-				"cured":11816,
-				"dead":2085
+				"cured":15853,
+				"dead":2132
 			}
 		},
 		{
@@ -3816,14 +3833,14 @@
 				"coordinates":[115.03361,30.20182]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖北省",
 				"city":"黄石市",
-				"confirmed":1011,
+				"confirmed":1013,
 				"suspected":0,
-				"cured":602,
-				"dead":32
+				"cured":658,
+				"dead":33
 			}
 		},
 		{
@@ -3833,14 +3850,14 @@
 				"coordinates":[110.79268,32.63139]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖北省",
 				"city":"十堰市",
 				"confirmed":671,
 				"suspected":0,
-				"cured":348,
-				"dead":3
+				"cured":389,
+				"dead":6
 			}
 		},
 		{
@@ -3850,14 +3867,14 @@
 				"coordinates":[111.28034,30.69414]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖北省",
 				"city":"宜昌市",
-				"confirmed":927,
+				"confirmed":931,
 				"suspected":0,
-				"cured":362,
-				"dead":30
+				"cured":429,
+				"dead":31
 			}
 		},
 		{
@@ -3867,14 +3884,14 @@
 				"coordinates":[112.11592,32.010956]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖北省",
 				"city":"襄阳市",
 				"confirmed":1175,
 				"suspected":0,
-				"cured":653,
-				"dead":30
+				"cured":753,
+				"dead":32
 			}
 		},
 		{
@@ -3884,14 +3901,14 @@
 				"coordinates":[114.88996,30.393597]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖北省",
 				"city":"鄂州市",
-				"confirmed":1387,
+				"confirmed":1389,
 				"suspected":0,
-				"cured":543,
-				"dead":41
+				"cured":685,
+				"dead":43
 			}
 		},
 		{
@@ -3901,13 +3918,13 @@
 				"coordinates":[112.194176,31.037617]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖北省",
 				"city":"荆门市",
-				"confirmed":922,
+				"confirmed":924,
 				"suspected":0,
-				"cured":469,
+				"cured":534,
 				"dead":37
 			}
 		},
@@ -3918,14 +3935,14 @@
 				"coordinates":[113.910515,30.92728]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖北省",
 				"city":"孝感市",
-				"confirmed":3501,
+				"confirmed":3517,
 				"suspected":0,
-				"cured":1388,
-				"dead":113
+				"cured":1829,
+				"dead":114
 			}
 		},
 		{
@@ -3935,14 +3952,14 @@
 				"coordinates":[112.23329,30.337557]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖北省",
 				"city":"荆州市",
-				"confirmed":1577,
+				"confirmed":1579,
 				"suspected":0,
-				"cured":822,
-				"dead":44
+				"cured":913,
+				"dead":46
 			}
 		},
 		{
@@ -3952,14 +3969,14 @@
 				"coordinates":[114.866936,30.456064]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖北省",
 				"city":"黄冈市",
 				"confirmed":2904,
 				"suspected":0,
-				"cured":1852,
-				"dead":107
+				"cured":2041,
+				"dead":114
 			}
 		},
 		{
@@ -3969,13 +3986,13 @@
 				"coordinates":[114.3166,29.843666]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖北省",
 				"city":"咸宁市",
 				"confirmed":836,
 				"suspected":0,
-				"cured":560,
+				"cured":644,
 				"dead":11
 			}
 		},
@@ -3986,14 +4003,14 @@
 				"coordinates":[113.376785,31.692175]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖北省",
 				"city":"随州市",
-				"confirmed":1306,
+				"confirmed":1307,
 				"suspected":0,
-				"cured":652,
-				"dead":37
+				"cured":740,
+				"dead":38
 			}
 		},
 		{
@@ -4003,13 +4020,13 @@
 				"coordinates":[109.48313,30.27477]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖北省",
 				"city":"恩施土家族苗族自治州",
 				"confirmed":251,
 				"suspected":0,
-				"cured":158,
+				"cured":172,
 				"dead":4
 			}
 		},
@@ -4020,13 +4037,13 @@
 				"coordinates":[113.43702,30.330202]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖北省",
 				"city":"仙桃市",
 				"confirmed":575,
 				"suspected":0,
-				"cured":337,
+				"cured":388,
 				"dead":19
 			}
 		},
@@ -4037,13 +4054,13 @@
 				"coordinates":[112.89342,30.404922]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖北省",
 				"city":"潜江市",
-				"confirmed":196,
+				"confirmed":198,
 				"suspected":0,
-				"cured":94,
+				"cured":99,
 				"dead":9
 			}
 		},
@@ -4054,13 +4071,13 @@
 				"coordinates":[113.15998,30.665644]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖北省",
 				"city":"天门市",
 				"confirmed":496,
 				"suspected":0,
-				"cured":286,
+				"cured":332,
 				"dead":13
 			}
 		},
@@ -4071,7 +4088,7 @@
 				"coordinates":[110.670906,31.746784]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖北省",
 				"city":"神农架林区",
@@ -4088,13 +4105,13 @@
 				"coordinates":[112.93355,28.232206]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖南省",
 				"city":"长沙市",
 				"confirmed":242,
 				"suspected":0,
-				"cured":159,
+				"cured":172,
 				"dead":2
 			}
 		},
@@ -4105,13 +4122,13 @@
 				"coordinates":[113.128174,27.83064]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖南省",
 				"city":"株洲市",
 				"confirmed":80,
 				"suspected":0,
-				"cured":54,
+				"cured":62,
 				"dead":0
 			}
 		},
@@ -4122,13 +4139,13 @@
 				"coordinates":[112.93857,27.833048]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖南省",
 				"city":"湘潭市",
 				"confirmed":36,
 				"suspected":0,
-				"cured":29,
+				"cured":33,
 				"dead":0
 			}
 		},
@@ -4139,13 +4156,13 @@
 				"coordinates":[112.566765,26.896885]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖南省",
 				"city":"衡阳市",
 				"confirmed":48,
 				"suspected":0,
-				"cured":38,
+				"cured":44,
 				"dead":0
 			}
 		},
@@ -4156,13 +4173,13 @@
 				"coordinates":[111.46243,27.242247]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖南省",
 				"city":"邵阳市",
 				"confirmed":102,
 				"suspected":0,
-				"cured":90,
+				"cured":95,
 				"dead":1
 			}
 		},
@@ -4173,13 +4190,13 @@
 				"coordinates":[113.12304,29.359756]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖南省",
 				"city":"岳阳市",
 				"confirmed":156,
 				"suspected":0,
-				"cured":106,
+				"cured":114,
 				"dead":1
 			}
 		},
@@ -4190,13 +4207,13 @@
 				"coordinates":[111.69339,29.034624]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖南省",
 				"city":"常德市",
 				"confirmed":82,
 				"suspected":0,
-				"cured":67,
+				"cured":72,
 				"dead":0
 			}
 		},
@@ -4207,7 +4224,7 @@
 				"coordinates":[110.47406,29.119864]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖南省",
 				"city":"张家界市",
@@ -4224,13 +4241,13 @@
 				"coordinates":[112.34929,28.55695]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖南省",
 				"city":"益阳市",
 				"confirmed":59,
 				"suspected":0,
-				"cured":56,
+				"cured":58,
 				"dead":0
 			}
 		},
@@ -4241,13 +4258,13 @@
 				"coordinates":[113.00949,25.773558]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖南省",
 				"city":"郴州市",
 				"confirmed":39,
 				"suspected":0,
-				"cured":33,
+				"cured":34,
 				"dead":0
 			}
 		},
@@ -4258,13 +4275,13 @@
 				"coordinates":[111.60776,26.423185]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖南省",
 				"city":"永州市",
-				"confirmed":43,
+				"confirmed":44,
 				"suspected":0,
-				"cured":41,
+				"cured":42,
 				"dead":0
 			}
 		},
@@ -4275,7 +4292,7 @@
 				"coordinates":[109.99731,27.572607]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖南省",
 				"city":"怀化市",
@@ -4292,13 +4309,13 @@
 				"coordinates":[111.98948,27.700611]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖南省",
 				"city":"娄底市",
 				"confirmed":76,
 				"suspected":0,
-				"cured":57,
+				"cured":60,
 				"dead":0
 			}
 		},
@@ -4309,7 +4326,7 @@
 				"coordinates":[109.73427,28.31509]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"湖南省",
 				"city":"湘西土家族苗族自治州",
@@ -4326,13 +4343,13 @@
 				"coordinates":[113.260666,23.134377]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广东省",
 				"city":"未公布来源",
 				"confirmed":0,
 				"suspected":0,
-				"cured":2,
+				"cured":1,
 				"dead":0
 			}
 		},
@@ -4343,13 +4360,13 @@
 				"coordinates":[113.25967,23.131777]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广东省",
 				"city":"广州市",
 				"confirmed":346,
 				"suspected":0,
-				"cured":222,
+				"cured":240,
 				"dead":1
 			}
 		},
@@ -4360,13 +4377,13 @@
 				"coordinates":[113.59181,24.81316]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广东省",
 				"city":"韶关市",
 				"confirmed":10,
 				"suspected":0,
-				"cured":7,
+				"cured":9,
 				"dead":0
 			}
 		},
@@ -4377,13 +4394,13 @@
 				"coordinates":[114.05289,22.545517]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广东省",
 				"city":"深圳市",
 				"confirmed":417,
 				"suspected":0,
-				"cured":262,
+				"cured":281,
 				"dead":3
 			}
 		},
@@ -4394,13 +4411,13 @@
 				"coordinates":[113.57096,22.273914]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广东省",
 				"city":"珠海市",
 				"confirmed":98,
 				"suspected":0,
-				"cured":59,
+				"cured":63,
 				"dead":1
 			}
 		},
@@ -4411,7 +4428,7 @@
 				"coordinates":[116.67753,23.355959]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广东省",
 				"city":"汕头市",
@@ -4428,13 +4445,13 @@
 				"coordinates":[113.116516,23.024452]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广东省",
 				"city":"佛山市",
 				"confirmed":84,
 				"suspected":0,
-				"cured":36,
+				"cured":47,
 				"dead":0
 			}
 		},
@@ -4445,13 +4462,13 @@
 				"coordinates":[113.07655,22.581491]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广东省",
 				"city":"江门市",
 				"confirmed":23,
 				"suspected":0,
-				"cured":11,
+				"cured":13,
 				"dead":0
 			}
 		},
@@ -4462,13 +4479,13 @@
 				"coordinates":[110.35451,21.273281]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广东省",
 				"city":"湛江市",
 				"confirmed":22,
 				"suspected":0,
-				"cured":14,
+				"cured":17,
 				"dead":0
 			}
 		},
@@ -4479,13 +4496,13 @@
 				"coordinates":[110.92049,21.666077]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广东省",
 				"city":"茂名市",
 				"confirmed":14,
 				"suspected":0,
-				"cured":7,
+				"cured":9,
 				"dead":0
 			}
 		},
@@ -4496,7 +4513,7 @@
 				"coordinates":[112.45975,23.049421]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广东省",
 				"city":"肇庆市",
@@ -4513,13 +4530,13 @@
 				"coordinates":[114.41203,23.1132]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广东省",
 				"city":"惠州市",
 				"confirmed":62,
 				"suspected":0,
-				"cured":52,
+				"cured":55,
 				"dead":0
 			}
 		},
@@ -4530,7 +4547,7 @@
 				"coordinates":[116.11817,24.290928]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广东省",
 				"city":"梅州市",
@@ -4547,13 +4564,13 @@
 				"coordinates":[115.370056,22.788235]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广东省",
 				"city":"汕尾市",
 				"confirmed":5,
 				"suspected":0,
-				"cured":4,
+				"cured":5,
 				"dead":0
 			}
 		},
@@ -4564,7 +4581,7 @@
 				"coordinates":[114.6963,23.74615]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广东省",
 				"city":"河源市",
@@ -4581,7 +4598,7 @@
 				"coordinates":[111.97693,21.860931]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广东省",
 				"city":"阳江市",
@@ -4598,7 +4615,7 @@
 				"coordinates":[113.050514,23.68446]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广东省",
 				"city":"清远市",
@@ -4615,13 +4632,13 @@
 				"coordinates":[113.7468,23.023724]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广东省",
 				"city":"东莞市",
-				"confirmed":97,
+				"confirmed":98,
 				"suspected":0,
-				"cured":40,
+				"cured":55,
 				"dead":1
 			}
 		},
@@ -4632,13 +4649,13 @@
 				"coordinates":[113.38752,22.51869]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广东省",
 				"city":"中山市",
 				"confirmed":66,
 				"suspected":0,
-				"cured":55,
+				"cured":58,
 				"dead":0
 			}
 		},
@@ -4649,13 +4666,13 @@
 				"coordinates":[116.61864,23.659145]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广东省",
 				"city":"潮州市",
 				"confirmed":5,
 				"suspected":0,
-				"cured":4,
+				"cured":5,
 				"dead":0
 			}
 		},
@@ -4666,7 +4683,7 @@
 				"coordinates":[116.367294,23.552097]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广东省",
 				"city":"揭阳市",
@@ -4683,7 +4700,7 @@
 				"coordinates":[112.03968,22.917656]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广东省",
 				"city":"云浮市",
@@ -4700,13 +4717,13 @@
 				"coordinates":[108.36293,22.818985]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广西壮族自治区",
 				"city":"南宁市",
 				"confirmed":55,
 				"suspected":0,
-				"cured":36,
+				"cured":46,
 				"dead":0
 			}
 		},
@@ -4717,13 +4734,13 @@
 				"coordinates":[109.4234,24.328402]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广西壮族自治区",
 				"city":"柳州市",
 				"confirmed":24,
 				"suspected":0,
-				"cured":12,
+				"cured":15,
 				"dead":0
 			}
 		},
@@ -4734,13 +4751,13 @@
 				"coordinates":[110.192406,25.239817]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广西壮族自治区",
 				"city":"桂林市",
 				"confirmed":32,
 				"suspected":0,
-				"cured":23,
+				"cured":24,
 				"dead":0
 			}
 		},
@@ -4751,7 +4768,7 @@
 				"coordinates":[111.273895,23.479492]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广西壮族自治区",
 				"city":"梧州市",
@@ -4768,13 +4785,13 @@
 				"coordinates":[109.11571,21.483389]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广西壮族自治区",
 				"city":"北海市",
 				"confirmed":44,
 				"suspected":0,
-				"cured":24,
+				"cured":32,
 				"dead":1
 			}
 		},
@@ -4785,7 +4802,7 @@
 				"coordinates":[108.350006,21.689186]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广西壮族自治区",
 				"city":"防城港市",
@@ -4802,7 +4819,7 @@
 				"coordinates":[108.650246,21.983786]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广西壮族自治区",
 				"city":"钦州市",
@@ -4819,13 +4836,13 @@
 				"coordinates":[109.59481,23.114502]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广西壮族自治区",
 				"city":"贵港市",
 				"confirmed":8,
 				"suspected":0,
-				"cured":4,
+				"cured":6,
 				"dead":0
 			}
 		},
@@ -4836,7 +4853,7 @@
 				"coordinates":[110.177536,22.656504]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广西壮族自治区",
 				"city":"玉林市",
@@ -4853,7 +4870,7 @@
 				"coordinates":[106.61459,23.905403]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广西壮族自治区",
 				"city":"百色市",
@@ -4870,7 +4887,7 @@
 				"coordinates":[111.56189,24.406536]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广西壮族自治区",
 				"city":"贺州市",
@@ -4887,13 +4904,13 @@
 				"coordinates":[108.08075,24.695751]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广西壮族自治区",
 				"city":"河池市",
 				"confirmed":28,
 				"suspected":0,
-				"cured":5,
+				"cured":8,
 				"dead":1
 			}
 		},
@@ -4904,13 +4921,13 @@
 				"coordinates":[109.2167,23.753038]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广西壮族自治区",
 				"city":"来宾市",
 				"confirmed":11,
 				"suspected":0,
-				"cured":0,
+				"cured":3,
 				"dead":0
 			}
 		},
@@ -4921,7 +4938,7 @@
 				"coordinates":[107.36085,22.37995]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"广西壮族自治区",
 				"city":"崇左市",
@@ -4935,16 +4952,33 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
+				"coordinates":[110.34459,20.022104]
+			},
+			"properties":{
+				"date":"2020-02-28",
+				"country":"中国",
+				"province":"海南省",
+				"city":"未公布来源",
+				"confirmed":0,
+				"suspected":0,
+				"cured":1,
+				"dead":0
+			}
+		},
+		{
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
 				"coordinates":[110.31466,20.040276]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"海南省",
 				"city":"海口市",
 				"confirmed":39,
 				"suspected":0,
-				"cured":29,
+				"cured":31,
 				"dead":0
 			}
 		},
@@ -4955,13 +4989,13 @@
 				"coordinates":[109.50792,18.254705]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"海南省",
 				"city":"三亚市",
 				"confirmed":54,
 				"suspected":0,
-				"cured":42,
+				"cured":43,
 				"dead":1
 			}
 		},
@@ -4972,7 +5006,7 @@
 				"coordinates":[112.2493,30.313461]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"海南省",
 				"city":"三沙市",
@@ -4989,7 +5023,7 @@
 				"coordinates":[109.163345,19.638586]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"海南省",
 				"city":"儋州市",
@@ -5006,7 +5040,7 @@
 				"coordinates":[109.64481,18.76934]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"海南省",
 				"city":"五指山市",
@@ -5023,7 +5057,7 @@
 				"coordinates":[110.46965,19.260145]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"海南省",
 				"city":"琼海市",
@@ -5040,7 +5074,7 @@
 				"coordinates":[110.70737,19.58969]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"海南省",
 				"city":"文昌市",
@@ -5057,13 +5091,13 @@
 				"coordinates":[110.391914,18.72861]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"海南省",
 				"city":"万宁市",
 				"confirmed":13,
 				"suspected":0,
-				"cured":11,
+				"cured":12,
 				"dead":0
 			}
 		},
@@ -5074,7 +5108,7 @@
 				"coordinates":[108.82445,19.118494]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"海南省",
 				"city":"东方市",
@@ -5091,7 +5125,7 @@
 				"coordinates":[110.35459,19.683027]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"海南省",
 				"city":"定安县",
@@ -5108,7 +5142,7 @@
 				"coordinates":[110.097595,19.353252]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"海南省",
 				"city":"屯昌县",
@@ -5125,13 +5159,13 @@
 				"coordinates":[110.002754,19.740295]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"海南省",
 				"city":"澄迈县",
 				"confirmed":9,
 				"suspected":0,
-				"cured":6,
+				"cured":7,
 				"dead":1
 			}
 		},
@@ -5142,13 +5176,13 @@
 				"coordinates":[109.68683,19.915312]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"海南省",
 				"city":"临高县",
 				"confirmed":6,
 				"suspected":0,
-				"cured":5,
+				"cured":6,
 				"dead":0
 			}
 		},
@@ -5159,7 +5193,7 @@
 				"coordinates":[109.44671,19.22669]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"海南省",
 				"city":"白沙黎族自治县",
@@ -5176,13 +5210,13 @@
 				"coordinates":[109.05189,19.299486]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"海南省",
 				"city":"昌江黎族自治县",
 				"confirmed":7,
 				"suspected":0,
-				"cured":3,
+				"cured":2,
 				"dead":0
 			}
 		},
@@ -5193,7 +5227,7 @@
 				"coordinates":[109.1699,18.751457]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"海南省",
 				"city":"乐东黎族自治县",
@@ -5210,7 +5244,7 @@
 				"coordinates":[110.03372,18.507626]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"海南省",
 				"city":"陵水黎族自治县",
@@ -5227,7 +5261,7 @@
 				"coordinates":[109.69288,18.642494]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"海南省",
 				"city":"保亭黎族苗族自治县",
@@ -5244,7 +5278,7 @@
 				"coordinates":[109.83392,19.035137]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"海南省",
 				"city":"琼中黎族苗族自治县",
@@ -5261,7 +5295,7 @@
 				"coordinates":[106.921234,28.96479]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"万盛经开区",
@@ -5278,13 +5312,13 @@
 				"coordinates":[106.54385,29.705496]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"两江新区",
 				"confirmed":17,
 				"suspected":0,
-				"cured":10,
+				"cured":13,
 				"dead":0
 			}
 		},
@@ -5295,7 +5329,7 @@
 				"coordinates":[106.304596,29.54434]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"高新区",
@@ -5312,13 +5346,13 @@
 				"coordinates":[108.40441,30.810162]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"万州区",
 				"confirmed":118,
 				"suspected":0,
-				"cured":75,
+				"cured":81,
 				"dead":4
 			}
 		},
@@ -5329,7 +5363,7 @@
 				"coordinates":[107.38537,29.70548]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"涪陵区",
@@ -5346,13 +5380,13 @@
 				"coordinates":[106.56531,29.55568]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"渝中区",
 				"confirmed":20,
 				"suspected":0,
-				"cured":16,
+				"cured":17,
 				"dead":0
 			}
 		},
@@ -5363,7 +5397,7 @@
 				"coordinates":[106.4781,29.48699]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"大渡口区",
@@ -5380,13 +5414,13 @@
 				"coordinates":[106.570305,29.609468]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"江北区",
 				"confirmed":28,
 				"suspected":0,
-				"cured":14,
+				"cured":17,
 				"dead":0
 			}
 		},
@@ -5397,13 +5431,13 @@
 				"coordinates":[106.45404,29.543604]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"沙坪坝区",
 				"confirmed":9,
 				"suspected":0,
-				"cured":2,
+				"cured":3,
 				"dead":0
 			}
 		},
@@ -5414,13 +5448,13 @@
 				"coordinates":[106.50719,29.504969]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"九龙坡区",
 				"confirmed":21,
 				"suspected":0,
-				"cured":12,
+				"cured":13,
 				"dead":1
 			}
 		},
@@ -5431,7 +5465,7 @@
 				"coordinates":[106.658195,29.49935]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"南岸区",
@@ -5448,7 +5482,7 @@
 				"coordinates":[106.39168,29.807846]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"北碚区",
@@ -5465,7 +5499,7 @@
 				"coordinates":[106.64725,29.03128]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"綦江区",
@@ -5482,7 +5516,7 @@
 				"coordinates":[105.718376,29.7095]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"大足区",
@@ -5499,13 +5533,13 @@
 				"coordinates":[106.62726,29.721031]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"渝北区",
 				"confirmed":17,
 				"suspected":0,
-				"cured":11,
+				"cured":13,
 				"dead":0
 			}
 		},
@@ -5516,7 +5550,7 @@
 				"coordinates":[106.53727,29.4052]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"巴南区",
@@ -5533,7 +5567,7 @@
 				"coordinates":[108.766624,29.5358]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"黔江区",
@@ -5550,13 +5584,13 @@
 				"coordinates":[107.07654,29.86017]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"长寿区",
 				"confirmed":22,
 				"suspected":0,
-				"cured":13,
+				"cured":14,
 				"dead":0
 			}
 		},
@@ -5567,7 +5601,7 @@
 				"coordinates":[106.25525,29.293055]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"江津区",
@@ -5584,7 +5618,7 @@
 				"coordinates":[106.272194,29.975042]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"合川区",
@@ -5601,7 +5635,7 @@
 				"coordinates":[105.92351,29.35909]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"永川区",
@@ -5618,7 +5652,7 @@
 				"coordinates":[107.09456,29.160555]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"南川区",
@@ -5635,7 +5669,7 @@
 				"coordinates":[106.22323,29.594995]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"璧山区",
@@ -5652,7 +5686,7 @@
 				"coordinates":[106.05309,29.846916]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"铜梁区",
@@ -5669,7 +5703,7 @@
 				"coordinates":[105.837425,30.19378]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"潼南区",
@@ -5686,7 +5720,7 @@
 				"coordinates":[105.59165,29.40798]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"荣昌区",
@@ -5703,13 +5737,13 @@
 				"coordinates":[108.38838,31.162766]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"开州区",
 				"confirmed":21,
 				"suspected":0,
-				"cured":18,
+				"cured":19,
 				"dead":1
 			}
 		},
@@ -5720,7 +5754,7 @@
 				"coordinates":[107.76517,30.656807]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"梁平区",
@@ -5737,7 +5771,7 @@
 				"coordinates":[107.75558,29.328514]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"武隆区",
@@ -5754,7 +5788,7 @@
 				"coordinates":[108.66062,31.949976]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"城口县",
@@ -5771,13 +5805,13 @@
 				"coordinates":[107.72654,29.866047]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"丰都县",
 				"confirmed":10,
 				"suspected":0,
-				"cured":4,
+				"cured":5,
 				"dead":0
 			}
 		},
@@ -5788,13 +5822,13 @@
 				"coordinates":[107.32844,30.330126]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"垫江县",
 				"confirmed":20,
 				"suspected":0,
-				"cured":10,
+				"cured":12,
 				"dead":0
 			}
 		},
@@ -5805,7 +5839,7 @@
 				"coordinates":[108.03346,30.301916]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"忠县",
@@ -5822,7 +5856,7 @@
 				"coordinates":[108.69261,30.932922]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"云阳县",
@@ -5839,13 +5873,13 @@
 				"coordinates":[109.45901,31.020706]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"奉节县",
 				"confirmed":22,
 				"suspected":0,
-				"cured":13,
+				"cured":17,
 				"dead":0
 			}
 		},
@@ -5856,7 +5890,7 @@
 				"coordinates":[109.87426,31.077145]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"巫山县",
@@ -5873,13 +5907,13 @@
 				"coordinates":[109.565254,31.400902]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"巫溪县",
 				"confirmed":14,
 				"suspected":0,
-				"cured":11,
+				"cured":12,
 				"dead":0
 			}
 		},
@@ -5890,13 +5924,13 @@
 				"coordinates":[108.10942,30.00225]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"石柱土家族自治县",
 				"confirmed":15,
 				"suspected":0,
-				"cured":11,
+				"cured":12,
 				"dead":0
 			}
 		},
@@ -5907,7 +5941,7 @@
 				"coordinates":[109.00253,28.451052]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"秀山土家族苗族自治县",
@@ -5924,13 +5958,13 @@
 				"coordinates":[108.76367,28.844473]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"酉阳土家族苗族自治县",
 				"confirmed":1,
 				"suspected":0,
-				"cured":0,
+				"cured":1,
 				"dead":0
 			}
 		},
@@ -5941,7 +5975,7 @@
 				"coordinates":[108.16157,29.296423]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"重庆市",
 				"city":"彭水苗族土家族自治县",
@@ -5958,13 +5992,13 @@
 				"coordinates":[104.07248,30.652313]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"四川省",
 				"city":"成都市",
 				"confirmed":143,
 				"suspected":0,
-				"cured":81,
+				"cured":85,
 				"dead":3
 			}
 		},
@@ -5975,13 +6009,13 @@
 				"coordinates":[104.77531,29.342258]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"四川省",
 				"city":"自贡市",
 				"confirmed":9,
 				"suspected":0,
-				"cured":8,
+				"cured":9,
 				"dead":0
 			}
 		},
@@ -5992,7 +6026,7 @@
 				"coordinates":[101.71742,26.585768]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"四川省",
 				"city":"攀枝花市",
@@ -6009,13 +6043,13 @@
 				"coordinates":[105.43841,28.874838]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"四川省",
 				"city":"泸州市",
 				"confirmed":24,
 				"suspected":0,
-				"cured":17,
+				"cured":20,
 				"dead":0
 			}
 		},
@@ -6026,13 +6060,13 @@
 				"coordinates":[104.39532,31.12894]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"四川省",
 				"city":"德阳市",
 				"confirmed":18,
 				"suspected":0,
-				"cured":9,
+				"cured":10,
 				"dead":0
 			}
 		},
@@ -6043,13 +6077,13 @@
 				"coordinates":[104.676384,31.470078]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"四川省",
 				"city":"绵阳市",
 				"confirmed":22,
 				"suspected":0,
-				"cured":14,
+				"cured":15,
 				"dead":0
 			}
 		},
@@ -6060,7 +6094,7 @@
 				"coordinates":[105.840294,32.437702]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"四川省",
 				"city":"广元市",
@@ -6077,13 +6111,13 @@
 				"coordinates":[105.58959,30.535595]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"四川省",
 				"city":"遂宁市",
 				"confirmed":17,
 				"suspected":0,
-				"cured":13,
+				"cured":15,
 				"dead":0
 			}
 		},
@@ -6094,13 +6128,13 @@
 				"coordinates":[105.05477,29.582777]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"四川省",
 				"city":"内江市",
 				"confirmed":22,
 				"suspected":0,
-				"cured":15,
+				"cured":18,
 				"dead":0
 			}
 		},
@@ -6111,7 +6145,7 @@
 				"coordinates":[103.763794,29.554756]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"四川省",
 				"city":"乐山市",
@@ -6128,7 +6162,7 @@
 				"coordinates":[103.48283,29.603895]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"四川省",
 				"city":"峨眉山市",
@@ -6145,7 +6179,7 @@
 				"coordinates":[106.10698,30.840082]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"四川省",
 				"city":"南充市",
@@ -6162,7 +6196,7 @@
 				"coordinates":[104.64062,28.755129]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"四川省",
 				"city":"宜宾市",
@@ -6179,13 +6213,13 @@
 				"coordinates":[106.62921,30.458776]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"四川省",
 				"city":"广安市",
 				"confirmed":30,
 				"suspected":0,
-				"cured":20,
+				"cured":21,
 				"dead":0
 			}
 		},
@@ -6196,13 +6230,13 @@
 				"coordinates":[107.46335,31.210747]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"四川省",
 				"city":"达州市",
 				"confirmed":42,
 				"suspected":0,
-				"cured":19,
+				"cured":26,
 				"dead":0
 			}
 		},
@@ -6213,7 +6247,7 @@
 				"coordinates":[103.041016,30.01348]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"四川省",
 				"city":"雅安市",
@@ -6230,13 +6264,13 @@
 				"coordinates":[106.74086,31.86938]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"四川省",
 				"city":"巴中市",
 				"confirmed":24,
 				"suspected":0,
-				"cured":11,
+				"cured":12,
 				"dead":0
 			}
 		},
@@ -6247,7 +6281,7 @@
 				"coordinates":[104.625595,30.131548]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"四川省",
 				"city":"资阳市",
@@ -6264,7 +6298,7 @@
 				"coordinates":[101.70523,32.904686]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"四川省",
 				"city":"阿坝藏族羌族自治州",
@@ -6281,13 +6315,13 @@
 				"coordinates":[101.96048,30.052221]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"四川省",
 				"city":"甘孜藏族自治州",
-				"confirmed":71,
+				"confirmed":78,
 				"suspected":0,
-				"cured":18,
+				"cured":23,
 				"dead":0
 			}
 		},
@@ -6298,30 +6332,13 @@
 				"coordinates":[102.2655,27.885132]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"四川省",
 				"city":"凉山彝族自治州",
 				"confirmed":13,
 				"suspected":0,
-				"cured":9,
-				"dead":0
-			}
-		},
-		{
-			"type":"Feature",
-			"geometry":{
-				"type":"Point",
-				"coordinates":[106.70424,26.601532]
-			},
-			"properties":{
-				"date":"2020-02-26",
-				"country":"中国",
-				"province":"贵州省",
-				"city":"未公布来源",
-				"confirmed":0,
-				"suspected":0,
-				"cured":1,
+				"cured":10,
 				"dead":0
 			}
 		},
@@ -6332,13 +6349,13 @@
 				"coordinates":[106.626434,26.65127]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"贵州省",
 				"city":"贵阳市",
 				"confirmed":36,
 				"suspected":0,
-				"cured":23,
+				"cured":27,
 				"dead":1
 			}
 		},
@@ -6349,7 +6366,7 @@
 				"coordinates":[104.82846,26.59672]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"贵州省",
 				"city":"六盘水市",
@@ -6366,13 +6383,13 @@
 				"coordinates":[106.92318,27.728931]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"贵州省",
 				"city":"遵义市",
 				"confirmed":32,
 				"suspected":0,
-				"cured":18,
+				"cured":21,
 				"dead":0
 			}
 		},
@@ -6383,13 +6400,13 @@
 				"coordinates":[105.94463,26.25653]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"贵州省",
 				"city":"安顺市",
 				"confirmed":4,
 				"suspected":0,
-				"cured":3,
+				"cured":4,
 				"dead":0
 			}
 		},
@@ -6400,7 +6417,7 @@
 				"coordinates":[105.288765,27.287868]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"贵州省",
 				"city":"毕节市",
@@ -6417,7 +6434,7 @@
 				"coordinates":[109.185425,27.734774]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"贵州省",
 				"city":"铜仁市",
@@ -6434,7 +6451,7 @@
 				"coordinates":[106.02832,27.011969]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"贵州省",
 				"city":"黔西南布依族苗族自治州",
@@ -6451,7 +6468,7 @@
 				"coordinates":[107.97887,26.587036]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"贵州省",
 				"city":"黔东南苗族侗族自治州",
@@ -6468,13 +6485,13 @@
 				"coordinates":[107.51784,26.257738]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"贵州省",
 				"city":"黔南布依族苗族自治州",
 				"confirmed":17,
 				"suspected":0,
-				"cured":13,
+				"cured":15,
 				"dead":0
 			}
 		},
@@ -6485,7 +6502,7 @@
 				"coordinates":[102.844604,24.870794]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"云南省",
 				"city":"昆明市",
@@ -6502,13 +6519,13 @@
 				"coordinates":[103.793976,25.493101]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"云南省",
 				"city":"曲靖市",
 				"confirmed":13,
 				"suspected":0,
-				"cured":10,
+				"cured":12,
 				"dead":0
 			}
 		},
@@ -6519,7 +6536,7 @@
 				"coordinates":[102.545746,24.355064]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"云南省",
 				"city":"玉溪市",
@@ -6536,7 +6553,7 @@
 				"coordinates":[99.16979,25.136173]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"云南省",
 				"city":"保山市",
@@ -6553,13 +6570,13 @@
 				"coordinates":[103.714905,27.341625]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"云南省",
 				"city":"昭通市",
 				"confirmed":25,
 				"suspected":0,
-				"cured":15,
+				"cured":20,
 				"dead":0
 			}
 		},
@@ -6570,7 +6587,7 @@
 				"coordinates":[100.22487,26.858145]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"云南省",
 				"city":"丽江市",
@@ -6587,7 +6604,7 @@
 				"coordinates":[100.96483,22.828194]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"云南省",
 				"city":"普洱市",
@@ -6604,7 +6621,7 @@
 				"coordinates":[100.087746,23.886787]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"云南省",
 				"city":"临沧市",
@@ -6621,7 +6638,7 @@
 				"coordinates":[101.52653,25.048538]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"云南省",
 				"city":"楚雄彝族自治州",
@@ -6638,13 +6655,13 @@
 				"coordinates":[102.41946,23.371311]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"云南省",
 				"city":"红河哈尼族彝族自治州",
 				"confirmed":9,
 				"suspected":0,
-				"cured":5,
+				"cured":8,
 				"dead":0
 			}
 		},
@@ -6655,7 +6672,7 @@
 				"coordinates":[104.2139,23.40295]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"云南省",
 				"city":"文山壮族苗族自治州",
@@ -6672,13 +6689,13 @@
 				"coordinates":[100.795876,22.010159]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"云南省",
 				"city":"西双版纳傣族自治州",
 				"confirmed":15,
 				"suspected":0,
-				"cured":12,
+				"cured":14,
 				"dead":1
 			}
 		},
@@ -6689,7 +6706,7 @@
 				"coordinates":[100.228905,25.594625]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"云南省",
 				"city":"大理白族自治州",
@@ -6706,7 +6723,7 @@
 				"coordinates":[98.58465,24.43547]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"云南省",
 				"city":"德宏傣族景颇族自治州",
@@ -6723,7 +6740,7 @@
 				"coordinates":[98.85641,25.820915]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"云南省",
 				"city":"怒江傈僳族自治州",
@@ -6740,7 +6757,7 @@
 				"coordinates":[99.702,27.822495]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"云南省",
 				"city":"迪庆藏族自治州",
@@ -6757,7 +6774,7 @@
 				"coordinates":[91.11274,29.646807]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"西藏自治区",
 				"city":"拉萨市",
@@ -6774,13 +6791,13 @@
 				"coordinates":[108.94931,34.27106]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"陕西省",
 				"city":"未公布来源",
 				"confirmed":0,
 				"suspected":0,
-				"cured":1,
+				"cured":5,
 				"dead":0
 			}
 		},
@@ -6791,7 +6808,7 @@
 				"coordinates":[108.06803,34.24148]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"陕西省",
 				"city":"杨凌示范区",
@@ -6808,7 +6825,7 @@
 				"coordinates":[108.93534,34.342655]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"陕西省",
 				"city":"西安市",
@@ -6825,7 +6842,7 @@
 				"coordinates":[108.941284,34.897484]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"陕西省",
 				"city":"铜川市",
@@ -6842,7 +6859,7 @@
 				"coordinates":[107.23331,34.364517]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"陕西省",
 				"city":"宝鸡市",
@@ -6859,13 +6876,13 @@
 				"coordinates":[108.70433,34.330643]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"陕西省",
 				"city":"咸阳市",
 				"confirmed":17,
 				"suspected":0,
-				"cured":16,
+				"cured":17,
 				"dead":0
 			}
 		},
@@ -6876,7 +6893,7 @@
 				"coordinates":[109.50486,34.501328]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"陕西省",
 				"city":"渭南市",
@@ -6893,7 +6910,7 @@
 				"coordinates":[110.43743,35.476486]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"陕西省",
 				"city":"韩城市",
@@ -6910,7 +6927,7 @@
 				"coordinates":[109.4846,36.585304]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"陕西省",
 				"city":"延安市",
@@ -6927,13 +6944,13 @@
 				"coordinates":[107.01848,33.06949]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"陕西省",
 				"city":"汉中市",
 				"confirmed":26,
 				"suspected":0,
-				"cured":17,
+				"cured":20,
 				"dead":0
 			}
 		},
@@ -6944,7 +6961,7 @@
 				"coordinates":[109.729416,38.284683]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"陕西省",
 				"city":"榆林市",
@@ -6961,7 +6978,7 @@
 				"coordinates":[109.02413,32.68687]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"陕西省",
 				"city":"安康市",
@@ -6978,13 +6995,13 @@
 				"coordinates":[109.91304,33.874004]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"陕西省",
 				"city":"商洛市",
 				"confirmed":7,
 				"suspected":0,
-				"cured":5,
+				"cured":6,
 				"dead":0
 			}
 		},
@@ -6995,7 +7012,7 @@
 				"coordinates":[103.82358,36.05971]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"甘肃省",
 				"city":"未公布来源",
@@ -7012,13 +7029,13 @@
 				"coordinates":[103.8316,36.061626]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"甘肃省",
 				"city":"兰州市",
 				"confirmed":36,
 				"suspected":0,
-				"cured":31,
+				"cured":32,
 				"dead":2
 			}
 		},
@@ -7029,7 +7046,7 @@
 				"coordinates":[98.2892,39.770866]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"甘肃省",
 				"city":"嘉峪关市",
@@ -7046,7 +7063,7 @@
 				"coordinates":[102.18601,38.51966]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"甘肃省",
 				"city":"金昌市",
@@ -7063,13 +7080,13 @@
 				"coordinates":[104.135185,36.54461]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"甘肃省",
 				"city":"白银市",
 				"confirmed":4,
 				"suspected":0,
-				"cured":3,
+				"cured":4,
 				"dead":0
 			}
 		},
@@ -7080,7 +7097,7 @@
 				"coordinates":[105.72106,34.582417]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"甘肃省",
 				"city":"天水市",
@@ -7097,7 +7114,7 @@
 				"coordinates":[102.636284,37.928215]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"甘肃省",
 				"city":"武威市",
@@ -7114,7 +7131,7 @@
 				"coordinates":[100.448296,38.925163]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"甘肃省",
 				"city":"张掖市",
@@ -7131,7 +7148,7 @@
 				"coordinates":[106.660774,35.54347]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"甘肃省",
 				"city":"平凉市",
@@ -7148,7 +7165,7 @@
 				"coordinates":[98.49357,39.73158]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"甘肃省",
 				"city":"酒泉市",
@@ -7165,7 +7182,7 @@
 				"coordinates":[107.63826,35.709297]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"甘肃省",
 				"city":"庆阳市",
@@ -7182,7 +7199,7 @@
 				"coordinates":[104.62333,35.581142]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"甘肃省",
 				"city":"定西市",
@@ -7199,7 +7216,7 @@
 				"coordinates":[104.91912,33.402756]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"甘肃省",
 				"city":"陇南市",
@@ -7216,7 +7233,7 @@
 				"coordinates":[103.24077,35.604485]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"甘肃省",
 				"city":"临夏回族自治州",
@@ -7233,7 +7250,7 @@
 				"coordinates":[102.90928,34.984535]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"甘肃省",
 				"city":"甘南藏族自治州",
@@ -7250,7 +7267,7 @@
 				"coordinates":[101.77607,36.617283]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"青海省",
 				"city":"西宁市",
@@ -7267,7 +7284,7 @@
 				"coordinates":[102.10193,36.502235]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"青海省",
 				"city":"海东市",
@@ -7284,7 +7301,7 @@
 				"coordinates":[100.89954,36.954548]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"青海省",
 				"city":"海北藏族自治州",
@@ -7301,7 +7318,7 @@
 				"coordinates":[102.014114,35.52001]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"青海省",
 				"city":"黄南藏族自治州",
@@ -7318,7 +7335,7 @@
 				"coordinates":[100.61872,36.2868]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"青海省",
 				"city":"海南藏族自治州",
@@ -7335,7 +7352,7 @@
 				"coordinates":[100.24366,34.47288]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"青海省",
 				"city":"果洛藏族自治州",
@@ -7352,7 +7369,7 @@
 				"coordinates":[97.006165,33.00734]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"青海省",
 				"city":"玉树藏族自治州",
@@ -7369,7 +7386,7 @@
 				"coordinates":[97.3689,37.376522]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"青海省",
 				"city":"海西蒙古族藏族自治州",
@@ -7386,7 +7403,7 @@
 				"coordinates":[106.2546,38.47075]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"宁夏回族自治区",
 				"city":"宁东管委会",
@@ -7400,33 +7417,16 @@
 			"type":"Feature",
 			"geometry":{
 				"type":"Point",
-				"coordinates":[106.2546,38.47075]
-			},
-			"properties":{
-				"date":"2020-02-26",
-				"country":"中国",
-				"province":"宁夏回族自治区",
-				"city":"未公布来源",
-				"confirmed":0,
-				"suspected":0,
-				"cured":3,
-				"dead":0
-			}
-		},
-		{
-			"type":"Feature",
-			"geometry":{
-				"type":"Point",
 				"coordinates":[106.2276,38.486042]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"宁夏回族自治区",
 				"city":"银川市",
 				"confirmed":33,
 				"suspected":0,
-				"cured":33,
+				"cured":32,
 				"dead":0
 			}
 		},
@@ -7437,7 +7437,7 @@
 				"coordinates":[106.37929,38.98316]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"宁夏回族自治区",
 				"city":"石嘴山市",
@@ -7454,13 +7454,13 @@
 				"coordinates":[106.1946,37.996857]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"宁夏回族自治区",
 				"city":"吴忠市",
 				"confirmed":28,
 				"suspected":0,
-				"cured":22,
+				"cured":26,
 				"dead":0
 			}
 		},
@@ -7471,7 +7471,7 @@
 				"coordinates":[106.2378,36.015984]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"宁夏回族自治区",
 				"city":"固原市",
@@ -7488,11 +7488,11 @@
 				"coordinates":[105.19323,37.499344]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"宁夏回族自治区",
 				"city":"中卫市",
-				"confirmed":3,
+				"confirmed":4,
 				"suspected":0,
 				"cured":3,
 				"dead":0
@@ -7505,7 +7505,7 @@
 				"coordinates":[87.62414,43.791965]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"第七师",
@@ -7522,13 +7522,13 @@
 				"coordinates":[87.62414,43.791965]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"第九师",
 				"confirmed":4,
 				"suspected":0,
-				"cured":1,
+				"cured":2,
 				"dead":1
 			}
 		},
@@ -7539,13 +7539,13 @@
 				"coordinates":[87.62414,43.791965]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"第十二师",
 				"confirmed":3,
 				"suspected":0,
-				"cured":1,
+				"cured":3,
 				"dead":0
 			}
 		},
@@ -7556,14 +7556,14 @@
 				"coordinates":[87.62414,43.791965]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"第四师",
 				"confirmed":10,
 				"suspected":0,
-				"cured":1,
-				"dead":0
+				"cured":6,
+				"dead":1
 			}
 		},
 		{
@@ -7573,13 +7573,13 @@
 				"coordinates":[87.61515,43.82339]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"乌鲁木齐市",
 				"confirmed":23,
 				"suspected":0,
-				"cured":13,
+				"cured":16,
 				"dead":0
 			}
 		},
@@ -7590,7 +7590,7 @@
 				"coordinates":[84.886894,45.579098]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"克拉玛依市",
@@ -7607,7 +7607,7 @@
 				"coordinates":[89.18796,42.94945]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"吐鲁番市",
@@ -7624,7 +7624,7 @@
 				"coordinates":[93.5131,42.818386]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"哈密市",
@@ -7641,7 +7641,7 @@
 				"coordinates":[87.30529,44.00978]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"昌吉回族自治州",
@@ -7658,7 +7658,7 @@
 				"coordinates":[82.06322,44.90498]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"博尔塔拉蒙古自治州",
@@ -7675,7 +7675,7 @@
 				"coordinates":[86.14265,41.762596]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"巴音郭楞蒙古自治州",
@@ -7692,7 +7692,7 @@
 				"coordinates":[80.25833,41.16792]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"阿克苏地区",
@@ -7709,7 +7709,7 @@
 				"coordinates":[76.164764,39.714085]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"克孜勒苏柯尔克孜自治州",
@@ -7726,7 +7726,7 @@
 				"coordinates":[75.986946,39.46987]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"喀什地区",
@@ -7743,7 +7743,7 @@
 				"coordinates":[79.92018,37.11454]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"和田地区",
@@ -7760,13 +7760,13 @@
 				"coordinates":[81.32095,43.915546]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"伊犁哈萨克自治州",
 				"confirmed":18,
 				"suspected":0,
-				"cured":8,
+				"cured":12,
 				"dead":0
 			}
 		},
@@ -7777,7 +7777,7 @@
 				"coordinates":[82.97743,46.744488]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"塔城地区",
@@ -7794,7 +7794,7 @@
 				"coordinates":[88.13795,47.843697]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"阿勒泰地区",
@@ -7811,13 +7811,13 @@
 				"coordinates":[86.07746,44.30487]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"石河子市",
 				"confirmed":4,
 				"suspected":0,
-				"cured":1,
+				"cured":2,
 				"dead":1
 			}
 		},
@@ -7828,7 +7828,7 @@
 				"coordinates":[81.278015,40.546837]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"阿拉尔市",
@@ -7845,7 +7845,7 @@
 				"coordinates":[79.0668,39.86445]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"图木舒克市",
@@ -7862,13 +7862,13 @@
 				"coordinates":[87.54035,44.165653]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"五家渠市",
 				"confirmed":2,
 				"suspected":0,
-				"cured":0,
+				"cured":2,
 				"dead":0
 			}
 		},
@@ -7879,7 +7879,7 @@
 				"coordinates":[87.83401,47.33155]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"北屯市",
@@ -7896,7 +7896,7 @@
 				"coordinates":[85.67798,41.85613]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"铁门关市",
@@ -7913,7 +7913,7 @@
 				"coordinates":[82.36855,44.84617]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"双河市",
@@ -7930,7 +7930,7 @@
 				"coordinates":[81.01814,43.92999]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"可克达拉市",
@@ -7947,7 +7947,7 @@
 				"coordinates":[78.98663,37.511257]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"新疆维吾尔自治区",
 				"city":"昆玉市",
@@ -7964,13 +7964,13 @@
 				"coordinates":[120.84659,23.770826]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"台湾省",
 				"city":"台湾",
-				"confirmed":32,
+				"confirmed":34,
 				"suspected":0,
-				"cured":5,
+				"cured":9,
 				"dead":1
 			}
 		},
@@ -7981,13 +7981,13 @@
 				"coordinates":[114.127075,22.412231]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"香港特别行政区",
 				"city":"香港",
-				"confirmed":89,
+				"confirmed":94,
 				"suspected":0,
-				"cured":24,
+				"cured":30,
 				"dead":2
 			}
 		},
@@ -7998,13 +7998,13 @@
 				"coordinates":[113.54617,22.136623]
 			},
 			"properties":{
-				"date":"2020-02-26",
+				"date":"2020-02-28",
 				"country":"中国",
 				"province":"澳门特别行政区",
 				"city":"澳门",
 				"confirmed":10,
 				"suspected":0,
-				"cured":7,
+				"cured":8,
 				"dead":0
 			}
 		}
